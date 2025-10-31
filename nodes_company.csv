@@ -1,51 +1,51 @@
-id,label,name,role/title,company/industry,location,email,relationship_type,target_id
-51,Company,Green Inc,,Energy,Welchberg,info@greeninc.com,,
-52,Company,Cabrera-Lewis,,Retail,Kingberg,info@cabrera-lewis.com,,
-53,Company,"Hughes, Gonzalez and Stuart",,Retail,Rushchester,"info@hughes,gonzalezandstuart.com",,
-54,Company,Bean Inc,,Technology,Taylorfort,info@beaninc.com,,
-55,Company,"Mccoy, Morrison and Burns",,Healthcare,Amyland,"info@mccoy,morrisonandburns.com",,
-56,Company,"Adams, Sexton and Mueller",,Consulting,New David,"info@adams,sextonandmueller.com",,
-57,Company,Wallace-Jacobs,,Retail,South Sydney,info@wallace-jacobs.com,,
-58,Company,"Wood, Cook and Lee",,Retail,Wyattfort,"info@wood,cookandlee.com",,
-59,Company,"Myers, Jackson and Hale",,Finance,Lake James,"info@myers,jacksonandhale.com",,
-60,Company,Johnson PLC,,Energy,Port Mary,info@johnsonplc.com,,
-61,Company,Johnson Ltd,,Retail,New Virginiachester,info@johnsonltd.com,,
-62,Company,"Patterson, Steele and Snyder",,Consulting,Murphyland,"info@patterson,steeleandsnyder.com",,
-63,Company,Gonzalez-Conrad,,Technology,Wheelerport,info@gonzalez-conrad.com,,
-64,Company,Davenport Ltd,,Finance,New Kimberlyview,info@davenportltd.com,,
-65,Company,Ware Ltd,,Finance,Meganbury,info@wareltd.com,,
-66,Company,Buck-Richards,,Healthcare,South Kayla,info@buck-richards.com,,
-67,Company,Thompson Ltd,,Finance,Christianside,info@thompsonltd.com,,
-68,Company,Barry Group,,Healthcare,Katherinemouth,info@barrygroup.com,,
-69,Company,"King, Baker and Browning",,Education,Lake Jonathan,"info@king,bakerandbrowning.com",,
-70,Company,"Williams, Hansen and Bullock",,Healthcare,Williamsborough,"info@williams,hansenandbullock.com",,
-71,Company,Smith-Huff,,Consulting,Fergusonville,info@smith-huff.com,,
-72,Company,Nichols-Ramos,,Education,Dylanview,info@nichols-ramos.com,,
-73,Company,Jones Group,,Healthcare,South Robertstad,info@jonesgroup.com,,
-74,Company,"Lee, Jones and Ward",,Consulting,Mollyland,"info@lee,jonesandward.com",,
-75,Company,Huerta LLC,,Finance,Barrymouth,info@huertallc.com,,
-76,Company,Friedman-Copeland,,Education,North John,info@friedman-copeland.com,,
-77,Company,Wright-Gallegos,,Education,Port Daniel,info@wright-gallegos.com,,
-78,Company,Knight LLC,,Healthcare,Kirbymouth,info@knightllc.com,,
-79,Company,Gibson-Horn,,Retail,Robinsonfurt,info@gibson-horn.com,,
-80,Company,"Brown, Wright and Stephenson",,Finance,West Douglas,"info@brown,wrightandstephenson.com",,
-81,Company,Scott-Mitchell,,Education,East Ethanmouth,info@scott-mitchell.com,,
-82,Company,Hill-Mejia,,Energy,Lake Bradburgh,info@hill-mejia.com,,
-83,Company,"Perez, May and Lopez",,Finance,Port Marymouth,"info@perez,mayandlopez.com",,
-84,Company,Ruiz-Williams,,Consulting,Johnsland,info@ruiz-williams.com,,
-85,Company,Morgan Ltd,,Energy,Richardsonport,info@morganltd.com,,
-86,Company,Allen-Cuevas,,Education,Woodsmouth,info@allen-cuevas.com,,
-87,Company,"Clark, Lara and Ellis",,Education,Lake Amanda,"info@clark,laraandellis.com",,
-88,Company,Odom-Walsh,,Retail,Lanebury,info@odom-walsh.com,,
-89,Company,Barnes-Rios,,Consulting,South Brettland,info@barnes-rios.com,,
-90,Company,Bryant-Garrison,,Consulting,South Brenda,info@bryant-garrison.com,,
-91,Company,Archer-Phillips,,Retail,Jeffreymouth,info@archer-phillips.com,,
-92,Company,Navarro-Williams,,Healthcare,New Denisechester,info@navarro-williams.com,,
-93,Company,"Carter, Davis and Manning",,Energy,Laraborough,"info@carter,davisandmanning.com",,
-94,Company,Robertson-Hayden,,Retail,Lanebury,info@robertson-hayden.com,,
-95,Company,Norton Inc,,Consulting,Stevenhaven,info@nortoninc.com,,
-96,Company,Smith Inc,,Education,South Meaganside,info@smithinc.com,,
-97,Company,Archer PLC,,Retail,Austinfurt,info@archerplc.com,,
-98,Company,"Smith, Miller and Bailey",,Retail,New David,"info@smith,millerandbailey.com",,
-99,Company,Booth Group,,Education,North Adrian,info@boothgroup.com,,
-100,Company,Johnson and Sons,,Energy,Frederickmouth,info@johnsonandsons.com,,
+id,name,industry,location
+1,Company_1,Finance,Houston
+2,Company_2,Healthcare,Houston
+3,Company_3,Retail,Chicago
+4,Company_4,Healthcare,Chicago
+5,Company_5,Retail,LA
+6,Company_6,Healthcare,LA
+7,Company_7,Healthcare,Houston
+8,Company_8,Finance,LA
+9,Company_9,Finance,NY
+10,Company_10,Retail,LA
+11,Company_11,Healthcare,LA
+12,Company_12,Retail,LA
+13,Company_13,Healthcare,NY
+14,Company_14,Retail,LA
+15,Company_15,Tech,Houston
+16,Company_16,Tech,Houston
+17,Company_17,Retail,Chicago
+18,Company_18,Tech,Chicago
+19,Company_19,Retail,Houston
+20,Company_20,Finance,LA
+21,Company_21,Healthcare,Houston
+22,Company_22,Healthcare,Houston
+23,Company_23,Tech,Chicago
+24,Company_24,Retail,NY
+25,Company_25,Tech,Houston
+26,Company_26,Tech,Houston
+27,Company_27,Finance,LA
+28,Company_28,Healthcare,LA
+29,Company_29,Tech,NY
+30,Company_30,Healthcare,Houston
+31,Company_31,Healthcare,Chicago
+32,Company_32,Healthcare,LA
+33,Company_33,Retail,Houston
+34,Company_34,Tech,Houston
+35,Company_35,Tech,NY
+36,Company_36,Healthcare,NY
+37,Company_37,Tech,LA
+38,Company_38,Retail,NY
+39,Company_39,Tech,Houston
+40,Company_40,Tech,LA
+41,Company_41,Healthcare,NY
+42,Company_42,Healthcare,Houston
+43,Company_43,Tech,Chicago
+44,Company_44,Tech,Chicago
+45,Company_45,Healthcare,NY
+46,Company_46,Retail,NY
+47,Company_47,Tech,NY
+48,Company_48,Healthcare,Houston
+49,Company_49,Finance,LA
+50,Company_50,Retail,NY
