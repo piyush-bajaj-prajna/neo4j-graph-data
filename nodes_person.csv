@@ -1,0 +1,201 @@
+id,label,name,role/title,company/industry,location,email,relationship_type,target_id
+1,Person,Alexis Garrett,Analyst,,North Scott,danielssarah@hotmail.com,,
+2,Person,Alyssa Khan,Developer,,Lake James,gbrown@yahoo.com,,
+3,Person,Samuel Little,Developer,,Jordanport,gbell@gmail.com,,
+4,Person,Dawn Phillips,Consultant,,Mossfort,tmcneil@johnson-mack.com,,
+5,Person,Marissa Estrada,Analyst,,Brownchester,marshallhelen@moore-anderson.com,,
+6,Person,Eric Lambert,Developer,,Courtneyhaven,rebekahwoodard@clark.info,,
+7,Person,Mr. Jeffery Rhodes,Consultant,,Williamsview,gmcmillan@gmail.com,,
+8,Person,Wesley Duncan,Analyst,,Rodriguezburgh,klopez@hotmail.com,,
+9,Person,Cheryl Garcia,Data Scientist,,East William,lhenry@hotmail.com,,
+10,Person,Alejandra Adams,Manager,,Nunezton,bmiddleton@hotmail.com,,
+11,Person,Isaac Lambert,Consultant,,Dawsonstad,hcervantes@oneill.net,,
+12,Person,Patricia Miller,Designer,,East Mary,emily81@gmail.com,,
+13,Person,Jennifer Collins,Engineer,,Morrisland,wardjulie@gmail.com,,
+14,Person,Emily Guzman,Manager,,Lake Andreabury,sabrinalee@gmail.com,,
+15,Person,Jody Rice,Data Scientist,,Port Karen,brendaclark@gmail.com,,
+16,Person,Kelly Harvey,Manager,,Steventon,larry61@yahoo.com,,
+17,Person,Amber Gordon,Developer,,Ellenbury,jchan@brown.biz,,
+18,Person,Joseph Smith,Developer,,Port Dorisstad,vrodriguez@gmail.com,,
+19,Person,Martha Lewis,Designer,,Loriport,flynnjennifer@rodriguez.com,,
+20,Person,Stephanie Hendricks,Designer,,West Charles,mark94@yahoo.com,,
+21,Person,Elizabeth Gamble,Manager,,Pittmanbury,adrianagonzales@gmail.com,,
+22,Person,Nicholas Simpson,Data Scientist,,West James,cesarjimenez@underwood.org,,
+23,Person,Sophia Graves,Manager,,East Michaelberg,donnaramsey@hotmail.com,,
+24,Person,Anthony Cardenas DDS,Engineer,,Dawnborough,lynnvictoria@meyer.com,,
+25,Person,Cheryl Elliott,Manager,,Davischester,dforbes@hotmail.com,,
+26,Person,Eric Schmitt,Designer,,South Stacie,parkermatthew@harvey.com,,
+27,Person,Rita Garcia,Consultant,,Cochranfurt,moodymelissa@adams.com,,
+28,Person,Jessica Young,Data Scientist,,Willisland,jfarrell@jennings.com,,
+29,Person,David Conley,Developer,,East Mindyhaven,chenwilliam@hotmail.com,,
+30,Person,Dylan Cain,Consultant,,Lake Christopherton,sbowers@gmail.com,,
+31,Person,Lisa Thompson,Analyst,,Emmamouth,patriciajenkins@rice.com,,
+32,Person,Mrs. Samantha Sanchez,Designer,,West Shannonport,wsmith@yahoo.com,,
+33,Person,Christopher Byrd,Consultant,,Jasonbury,ystewart@yahoo.com,,
+34,Person,Thomas Weber,Data Scientist,,Jasontown,josephjones@yahoo.com,,
+35,Person,Amy Young,Manager,,Allenshire,joseph23@francis.com,,
+36,Person,Jamie Barker,Engineer,,Williamside,corey35@hotmail.com,,
+37,Person,Joseph Turner,Analyst,,Perezmouth,rachelgraham@morris-johnson.org,,
+38,Person,Charles Bryant,Developer,,Williamsmouth,uclark@rivera-smith.com,,
+39,Person,Anna Jones,Developer,,Lake Tammytown,gonzalezanita@edwards-deleon.com,,
+40,Person,Michael Solis,Analyst,,Arnoldside,spencemichele@hotmail.com,,
+41,Person,Monica Hill,Engineer,,South Jasminechester,probles@baxter-sexton.biz,,
+42,Person,Jessica King,Analyst,,Singhmouth,sandradavis@hotmail.com,,
+43,Person,William Miller,Designer,,Andrewstad,richardsonmichael@krueger-perry.com,,
+44,Person,Robin Lam,Designer,,South Jessica,tyler69@hotmail.com,,
+45,Person,James Dixon,Engineer,,Katrinachester,isaac98@gmail.com,,
+46,Person,Mark Davidson,Manager,,West Allison,burnsjeffery@yahoo.com,,
+47,Person,Megan Garcia,Developer,,Trevorport,adamsrebekah@morris-rice.com,,
+48,Person,David Hawkins,Consultant,,Huynhstad,lmckinney@gmail.com,,
+49,Person,Jessica Perez,Manager,,Pricefurt,snyderbryan@gmail.com,,
+50,Person,Michael Smith,Consultant,,Nicolechester,pettyjeremiah@adams.net,,
+1,Person,,,,,,WORKS_FOR,76.0
+2,Person,,,,,,WORKS_FOR,90.0
+3,Person,,,,,,WORKS_FOR,71.0
+4,Person,,,,,,WORKS_FOR,56.0
+5,Person,,,,,,WORKS_FOR,66.0
+6,Person,,,,,,WORKS_FOR,85.0
+7,Person,,,,,,WORKS_FOR,94.0
+8,Person,,,,,,WORKS_FOR,91.0
+9,Person,,,,,,WORKS_FOR,83.0
+10,Person,,,,,,WORKS_FOR,100.0
+11,Person,,,,,,WORKS_FOR,89.0
+12,Person,,,,,,WORKS_FOR,58.0
+13,Person,,,,,,WORKS_FOR,92.0
+14,Person,,,,,,WORKS_FOR,55.0
+15,Person,,,,,,WORKS_FOR,94.0
+16,Person,,,,,,WORKS_FOR,52.0
+17,Person,,,,,,WORKS_FOR,67.0
+18,Person,,,,,,WORKS_FOR,82.0
+19,Person,,,,,,WORKS_FOR,92.0
+20,Person,,,,,,WORKS_FOR,78.0
+21,Person,,,,,,WORKS_FOR,96.0
+22,Person,,,,,,WORKS_FOR,90.0
+23,Person,,,,,,WORKS_FOR,74.0
+24,Person,,,,,,WORKS_FOR,52.0
+25,Person,,,,,,WORKS_FOR,74.0
+26,Person,,,,,,WORKS_FOR,73.0
+27,Person,,,,,,WORKS_FOR,52.0
+28,Person,,,,,,WORKS_FOR,66.0
+29,Person,,,,,,WORKS_FOR,83.0
+30,Person,,,,,,WORKS_FOR,56.0
+31,Person,,,,,,WORKS_FOR,71.0
+32,Person,,,,,,WORKS_FOR,95.0
+33,Person,,,,,,WORKS_FOR,91.0
+34,Person,,,,,,WORKS_FOR,58.0
+35,Person,,,,,,WORKS_FOR,66.0
+36,Person,,,,,,WORKS_FOR,96.0
+37,Person,,,,,,WORKS_FOR,80.0
+38,Person,,,,,,WORKS_FOR,55.0
+39,Person,,,,,,WORKS_FOR,80.0
+40,Person,,,,,,WORKS_FOR,91.0
+41,Person,,,,,,WORKS_FOR,86.0
+42,Person,,,,,,WORKS_FOR,99.0
+43,Person,,,,,,WORKS_FOR,71.0
+44,Person,,,,,,WORKS_FOR,60.0
+45,Person,,,,,,WORKS_FOR,88.0
+46,Person,,,,,,WORKS_FOR,98.0
+47,Person,,,,,,WORKS_FOR,93.0
+48,Person,,,,,,WORKS_FOR,81.0
+49,Person,,,,,,WORKS_FOR,65.0
+50,Person,,,,,,WORKS_FOR,80.0
+38,Person,,,,,,COLLABORATES_WITH,13.0
+13,Person,,,,,,COLLABORATES_WITH,38.0
+44,Person,,,,,,COLLABORATES_WITH,40.0
+40,Person,,,,,,COLLABORATES_WITH,44.0
+45,Person,,,,,,COLLABORATES_WITH,28.0
+28,Person,,,,,,COLLABORATES_WITH,45.0
+42,Person,,,,,,COLLABORATES_WITH,8.0
+8,Person,,,,,,COLLABORATES_WITH,42.0
+30,Person,,,,,,COLLABORATES_WITH,15.0
+15,Person,,,,,,COLLABORATES_WITH,30.0
+11,Person,,,,,,COLLABORATES_WITH,3.0
+3,Person,,,,,,COLLABORATES_WITH,11.0
+1,Person,,,,,,COLLABORATES_WITH,24.0
+24,Person,,,,,,COLLABORATES_WITH,1.0
+22,Person,,,,,,COLLABORATES_WITH,3.0
+3,Person,,,,,,COLLABORATES_WITH,22.0
+19,Person,,,,,,COLLABORATES_WITH,43.0
+43,Person,,,,,,COLLABORATES_WITH,19.0
+6,Person,,,,,,COLLABORATES_WITH,28.0
+28,Person,,,,,,COLLABORATES_WITH,6.0
+33,Person,,,,,,COLLABORATES_WITH,7.0
+7,Person,,,,,,COLLABORATES_WITH,33.0
+39,Person,,,,,,COLLABORATES_WITH,6.0
+6,Person,,,,,,COLLABORATES_WITH,39.0
+28,Person,,,,,,COLLABORATES_WITH,50.0
+50,Person,,,,,,COLLABORATES_WITH,28.0
+11,Person,,,,,,COLLABORATES_WITH,43.0
+43,Person,,,,,,COLLABORATES_WITH,11.0
+46,Person,,,,,,COLLABORATES_WITH,38.0
+38,Person,,,,,,COLLABORATES_WITH,46.0
+3,Person,,,,,,COLLABORATES_WITH,33.0
+33,Person,,,,,,COLLABORATES_WITH,3.0
+20,Person,,,,,,COLLABORATES_WITH,40.0
+40,Person,,,,,,COLLABORATES_WITH,20.0
+36,Person,,,,,,COLLABORATES_WITH,18.0
+18,Person,,,,,,COLLABORATES_WITH,36.0
+38,Person,,,,,,COLLABORATES_WITH,40.0
+40,Person,,,,,,COLLABORATES_WITH,38.0
+32,Person,,,,,,COLLABORATES_WITH,26.0
+26,Person,,,,,,COLLABORATES_WITH,32.0
+48,Person,,,,,,COLLABORATES_WITH,32.0
+32,Person,,,,,,COLLABORATES_WITH,48.0
+38,Person,,,,,,COLLABORATES_WITH,12.0
+12,Person,,,,,,COLLABORATES_WITH,38.0
+3,Person,,,,,,COLLABORATES_WITH,31.0
+31,Person,,,,,,COLLABORATES_WITH,3.0
+41,Person,,,,,,COLLABORATES_WITH,2.0
+2,Person,,,,,,COLLABORATES_WITH,41.0
+38,Person,,,,,,COLLABORATES_WITH,30.0
+30,Person,,,,,,COLLABORATES_WITH,38.0
+37,Person,,,,,,COLLABORATES_WITH,39.0
+39,Person,,,,,,COLLABORATES_WITH,37.0
+47,Person,,,,,,COLLABORATES_WITH,7.0
+7,Person,,,,,,COLLABORATES_WITH,47.0
+3,Person,,,,,,COLLABORATES_WITH,19.0
+19,Person,,,,,,COLLABORATES_WITH,3.0
+10,Person,,,,,,COLLABORATES_WITH,12.0
+12,Person,,,,,,COLLABORATES_WITH,10.0
+14,Person,,,,,,COLLABORATES_WITH,17.0
+17,Person,,,,,,COLLABORATES_WITH,14.0
+29,Person,,,,,,COLLABORATES_WITH,22.0
+22,Person,,,,,,COLLABORATES_WITH,29.0
+41,Person,,,,,,COLLABORATES_WITH,49.0
+49,Person,,,,,,COLLABORATES_WITH,41.0
+17,Person,,,,,,COLLABORATES_WITH,37.0
+37,Person,,,,,,COLLABORATES_WITH,17.0
+13,Person,,,,,,COLLABORATES_WITH,23.0
+23,Person,,,,,,COLLABORATES_WITH,13.0
+26,Person,,,,,,COLLABORATES_WITH,37.0
+37,Person,,,,,,COLLABORATES_WITH,26.0
+9,Person,,,,,,COLLABORATES_WITH,1.0
+1,Person,,,,,,COLLABORATES_WITH,9.0
+12,Person,,,,,,COLLABORATES_WITH,35.0
+35,Person,,,,,,COLLABORATES_WITH,12.0
+48,Person,,,,,,COLLABORATES_WITH,50.0
+50,Person,,,,,,COLLABORATES_WITH,48.0
+2,Person,,,,,,COLLABORATES_WITH,19.0
+19,Person,,,,,,COLLABORATES_WITH,2.0
+33,Person,,,,,,COLLABORATES_WITH,14.0
+14,Person,,,,,,COLLABORATES_WITH,33.0
+16,Person,,,,,,COLLABORATES_WITH,21.0
+21,Person,,,,,,COLLABORATES_WITH,16.0
+5,Person,,,,,,COLLABORATES_WITH,45.0
+45,Person,,,,,,COLLABORATES_WITH,5.0
+28,Person,,,,,,COLLABORATES_WITH,27.0
+27,Person,,,,,,COLLABORATES_WITH,28.0
+5,Person,,,,,,COLLABORATES_WITH,30.0
+30,Person,,,,,,COLLABORATES_WITH,5.0
+23,Person,,,,,,COLLABORATES_WITH,4.0
+4,Person,,,,,,COLLABORATES_WITH,23.0
+37,Person,,,,,,COLLABORATES_WITH,38.0
+38,Person,,,,,,COLLABORATES_WITH,37.0
+27,Person,,,,,,COLLABORATES_WITH,25.0
+25,Person,,,,,,COLLABORATES_WITH,27.0
+50,Person,,,,,,COLLABORATES_WITH,13.0
+13,Person,,,,,,COLLABORATES_WITH,50.0
+15,Person,,,,,,COLLABORATES_WITH,16.0
+16,Person,,,,,,COLLABORATES_WITH,15.0
+3,Person,,,,,,COLLABORATES_WITH,16.0
+16,Person,,,,,,COLLABORATES_WITH,3.0
