@@ -1,0 +1,613 @@
+customer_id,customer_name,customer_age,customer_gender,merchant_id,merchant_name,merchant_street,merchant_address,transaction_amount,transaction_time,transaction_status
+CUST_0079,Kabir Patel,18,Female,MER_0050,Chai Point,Park Street,Bengaluru,3188.47,01/01/2024 14:25,Legit
+CUST_0035,Mohit Sharma,57,Male,MER_0026,Ikea Local,Outer Ring Road,Mumbai,5136.96,01/01/2024 17:55,Legit
+CUST_0091,Neha Iyer,66,Female,MER_0033,Zomato Partner,Ring Road,Chennai,6057.06,04/01/2024 10:17,Legit
+CUST_0019,Rohit Verma,27,Female,MER_0004,Flipkart Hub,Outer Ring Road,Hyderabad,3673.24,05/01/2024 07:02,Legit
+CUST_0092,Ananya Patel,41,Other,MER_0042,Chai Point,Park Street,Chennai,82.93,08/01/2024 14:15,Legit
+CUST_0089,Aisha Khan,52,Male,MER_0025,Tanishq,Park Street,Mumbai,1685.4,08/01/2024 15:47,Legit
+CUST_0040,Reyansh Verma,58,Other,MER_0040,Urban Ladder,LBS Marg,Bengaluru,2454.93,08/01/2024 19:45,Legit
+CUST_0024,Aisha Rao,58,Female,MER_0016,Tanishq,Outer Ring Road,Chennai,1184.56,09/01/2024 01:03,Legit
+CUST_0044,Kabir Khan,53,Other,MER_0038,Urban Ladder,Park Street,Mumbai,2309.04,09/01/2024 02:52,Legit
+CUST_0066,Sanya Iyer,66,Female,MER_0026,Nykaa Store,Park Street,Chennai,2041.21,09/01/2024 10:39,Legit
+CUST_0001,Sara Sharma,37,Male,MER_0007,Reliance Mart,Outer Ring Road,Hyderabad,1195.51,09/01/2024 22:20,Legit
+CUST_0023,Meera Patel,30,Female,MER_0036,Zudio,Brigade Road,Kolkata,1349.23,10/01/2024 05:29,Legit
+CUST_0025,Vivaan Khan,66,Female,MER_0008,Ola Payments,Ring Road,Chennai,3028.54,11/01/2024 23:23,Legit
+CUST_0036,Reyansh Sharma,61,Other,MER_0029,Reliance Mart,Outer Ring Road,Mumbai,2582.49,12/01/2024 10:57,Legit
+CUST_0087,Aarav Iyer,44,Female,MER_0007,TataCliq Merchant,Outer Ring Road,Mumbai,2398.81,13/01/2024 03:02,Legit
+CUST_0091,Meera Rao,23,Male,MER_0016,Ikea Local,Brigade Road,Kolkata,1598.56,13/01/2024 04:07,Legit
+CUST_0023,Sara Patel,25,Male,MER_0012,Zudio,MG Road,Mumbai,843.04,13/01/2024 13:09,Legit
+CUST_0060,Arjun Iyer,61,Female,MER_0033,Flipkart Hub,Park Street,Bengaluru,3898.33,13/01/2024 17:22,Legit
+CUST_0096,Aditya Verma,48,Female,MER_0025,Myntra Seller,Outer Ring Road,Bengaluru,1011.45,14/01/2024 04:33,Legit
+CUST_0075,Reyansh Iyer,46,Male,MER_0038,Amazon Store,Outer Ring Road,Hyderabad,3201.98,14/01/2024 19:37,Legit
+CUST_0027,Neha Rao,46,Other,MER_0043,Chai Point,LBS Marg,Bengaluru,2126.56,16/01/2024 04:12,Legit
+CUST_0041,Riya Patel,68,Male,MER_0023,Urban Ladder,MG Road,Mumbai,77.93,17/01/2024 15:19,Legit
+CUST_0088,Diya Iyer,23,Male,MER_0015,Spencers,Outer Ring Road,Chennai,3480.15,18/01/2024 05:56,Legit
+CUST_0050,Aarav Verma,47,Male,MER_0042,Reliance Mart,Brigade Road,Kolkata,2616.56,18/01/2024 10:34,Legit
+CUST_0015,Riya Verma,56,Other,MER_0007,Nykaa Store,LBS Marg,Delhi,4206.01,19/01/2024 15:11,Legit
+CUST_0002,Zara Rao,55,Male,MER_0013,Tanishq,Ring Road,Delhi,2992.62,21/01/2024 06:06,Legit
+CUST_0054,Zara Khan,24,Other,MER_0038,Flipkart Hub,Ring Road,Delhi,1701.8,21/01/2024 15:32,Legit
+CUST_0002,Kabir Sharma,49,Female,MER_0026,Urban Ladder,MG Road,Bengaluru,4151.67,22/01/2024 08:05,Legit
+CUST_0022,Aditya Rao,69,Other,MER_0048,Big Bazaar,Park Street,Chennai,1214.2,22/01/2024 17:12,Legit
+CUST_0036,Zara Verma,43,Other,MER_0005,DMart,Outer Ring Road,Kolkata,2668.86,23/01/2024 19:40,Legit
+CUST_0078,Tara Iyer,20,Female,MER_0041,Ola Payments,Link Road,Hyderabad,1202.46,24/01/2024 04:02,Legit
+CUST_0048,Lakshmi Rao,55,Other,MER_0044,Zomato Partner,Brigade Road,Pune,3123.22,24/01/2024 17:12,Legit
+CUST_0066,Lakshmi Iyer,44,Other,MER_0034,TataCliq Merchant,LBS Marg,Hyderabad,1145.28,25/01/2024 02:49,Legit
+CUST_0026,Aarav Rao,64,Other,MER_0048,Flipkart Hub,Brigade Road,Chennai,463.61,25/01/2024 05:09,Legit
+CUST_0072,Diya Khan,62,Male,MER_0031,Ikea Local,Outer Ring Road,Mumbai,1537.29,25/01/2024 20:17,Legit
+CUST_0056,Aditya Sharma,22,Female,MER_0044,Zomato Partner,Park Street,Mumbai,1519.26,26/01/2024 23:24,Legit
+CUST_0003,Vivaan Patel,58,Other,MER_0043,TataCliq Merchant,Park Street,Bengaluru,831.44,27/01/2024 02:33,Legit
+CUST_0048,Sanya Rao,70,Female,MER_0033,Reliance Mart,Outer Ring Road,Pune,2097.41,27/01/2024 23:02,Legit
+CUST_0005,Neha Iyer,33,Male,MER_0025,Spencers,MG Road,Chennai,1037.52,29/01/2024 12:29,Legit
+CUST_0006,Sara Verma,30,Other,MER_0020,Spencers,Outer Ring Road,Delhi,4950.67,30/01/2024 00:33,Legit
+CUST_0020,Kabir Rao,24,Female,MER_0048,TataCliq Merchant,Link Road,Chennai,2845.89,30/01/2024 13:37,Legit
+CUST_0061,Meera Khan,42,Female,MER_0016,Nykaa Store,MG Road,Kolkata,3457.05,30/01/2024 20:47,Legit
+CUST_0031,Mohit Iyer,69,Other,MER_0046,Zomato Partner,Link Road,Delhi,4805.61,01/02/2024 13:50,Legit
+CUST_0050,Aditya Verma,58,Other,MER_0023,Chai Point,Park Street,Bengaluru,385.97,01/02/2024 21:06,Legit
+CUST_0005,Neha Iyer,33,Male,MER_0025,Spencers,MG Road,Chennai,902.2,02/02/2024 12:29,Fraud
+CUST_0006,Aisha Iyer,40,Other,MER_0012,Big Bazaar,Brigade Road,Pune,3201.73,02/02/2024 23:40,Legit
+CUST_0024,Lakshmi Rao,47,Male,MER_0022,Nykaa Store,MG Road,Pune,1687.98,03/02/2024 06:11,Legit
+CUST_0074,Riya Khan,53,Other,MER_0040,Urban Ladder,Brigade Road,Kolkata,2579.87,03/02/2024 08:12,Legit
+CUST_0052,Arjun Rao,45,Other,MER_0046,Myntra Seller,LBS Marg,Kolkata,588.11,03/02/2024 12:39,Legit
+CUST_0007,Mohit Rao,38,Male,MER_0021,Zudio,Outer Ring Road,Pune,5671.82,04/02/2024 14:57,Legit
+CUST_0037,Arjun Patel,29,Female,MER_0050,Nykaa Store,Outer Ring Road,Hyderabad,2894.83,05/02/2024 04:26,Legit
+CUST_0050,Aditya Verma,58,Other,MER_0023,Chai Point,Park Street,Bengaluru,5196.23,05/02/2024 21:06,Fraud
+CUST_0031,Ananya Khan,56,Female,MER_0045,Ola Payments,Brigade Road,Delhi,2932.52,06/02/2024 22:16,Legit
+CUST_0002,Zara Patel,36,Male,MER_0039,Nykaa Store,Park Street,Mumbai,1055.26,07/02/2024 12:05,Legit
+CUST_0013,Riya Iyer,23,Female,MER_0041,TataCliq Merchant,Park Street,Pune,2042.01,07/02/2024 22:08,Legit
+CUST_0067,Kabir Sharma,61,Female,MER_0047,Tanishq,Outer Ring Road,Mumbai,3138.69,08/02/2024 01:52,Legit
+CUST_0012,Reyansh Rao,58,Other,MER_0047,Spencers,LBS Marg,Hyderabad,2264.95,08/02/2024 17:54,Legit
+CUST_0018,Sara Khan,31,Female,MER_0045,Ola Payments,Ring Road,Mumbai,1152.12,08/02/2024 21:53,Legit
+CUST_0046,Aarav Sharma,23,Other,MER_0048,Urban Ladder,Ring Road,Bengaluru,2070.63,08/02/2024 23:34,Legit
+CUST_0064,Lakshmi Patel,23,Other,MER_0044,Urban Ladder,Link Road,Mumbai,1125.89,09/02/2024 01:38,Legit
+CUST_0065,Mohit Rao,19,Other,MER_0049,Big Bazaar,Ring Road,Mumbai,2925.84,09/02/2024 01:53,Legit
+CUST_0002,Aarav Khan,35,Other,MER_0017,Chai Point,Park Street,Hyderabad,3577.66,09/02/2024 05:24,Legit
+CUST_0073,Arjun Khan,68,Male,MER_0039,Zudio,MG Road,Pune,3058.88,11/02/2024 05:17,Legit
+CUST_0087,Reyansh Sharma,46,Other,MER_0041,Chai Point,Park Street,Mumbai,1152.71,11/02/2024 09:30,Legit
+CUST_0095,Arjun Iyer,56,Male,MER_0015,Flipkart Hub,Ring Road,Kolkata,878.87,13/02/2024 04:45,Legit
+CUST_0088,Aarav Patel,56,Other,MER_0041,Flipkart Hub,Ring Road,Pune,3346.6,13/02/2024 13:12,Legit
+CUST_0042,Reyansh Iyer,57,Female,MER_0004,Ikea Local,Brigade Road,Mumbai,1498.08,13/02/2024 16:15,Legit
+CUST_0045,Tara Khan,51,Male,MER_0001,DMart,LBS Marg,Pune,1845.36,16/02/2024 04:42,Legit
+CUST_0028,Zara Sharma,54,Male,MER_0040,Myntra Seller,MG Road,Delhi,3320.2,17/02/2024 00:36,Legit
+CUST_0037,Rohit Verma,60,Male,MER_0024,Ikea Local,Ring Road,Chennai,597.72,17/02/2024 04:53,Legit
+CUST_0033,Meera Patel,21,Other,MER_0014,Myntra Seller,Outer Ring Road,Hyderabad,3755.39,17/02/2024 21:35,Legit
+CUST_0035,Vivaan Sharma,45,Other,MER_0005,Tanishq,LBS Marg,Pune,3029.13,18/02/2024 01:24,Legit
+CUST_0037,Rohit Verma,60,Male,MER_0024,Ikea Local,Ring Road,Chennai,2467.67,18/02/2024 04:53,Fraud
+CUST_0062,Meera Iyer,55,Other,MER_0038,Chai Point,MG Road,Kolkata,2655.99,18/02/2024 22:46,Legit
+CUST_0035,Diya Rao,29,Male,MER_0050,Big Bazaar,Outer Ring Road,Mumbai,2479.18,20/02/2024 16:38,Legit
+CUST_0012,Sara Patel,42,Other,MER_0029,Flipkart Hub,Outer Ring Road,Kolkata,778.19,22/02/2024 03:58,Legit
+CUST_0094,Zara Sharma,63,Male,MER_0010,Chai Point,Park Street,Pune,3982.95,22/02/2024 06:26,Legit
+CUST_0047,Zara Khan,33,Male,MER_0028,Tanishq,Park Street,Pune,1942.97,23/02/2024 15:32,Legit
+CUST_0093,Meera Rao,21,Other,MER_0025,Spencers,Brigade Road,Bengaluru,9049.64,23/02/2024 21:53,Legit
+CUST_0060,Tara Patel,62,Male,MER_0046,Ikea Local,LBS Marg,Mumbai,4060.37,24/02/2024 15:24,Legit
+CUST_0010,Aisha Khan,25,Female,MER_0017,Reliance Mart,Link Road,Kolkata,1296.96,25/02/2024 13:19,Legit
+CUST_0070,Sanya Iyer,63,Female,MER_0025,Tanishq,Outer Ring Road,Kolkata,1544.11,25/02/2024 22:10,Legit
+CUST_0053,Tara Khan,20,Male,MER_0001,Croma Electronics,Park Street,Bengaluru,667.83,26/02/2024 10:33,Legit
+CUST_0003,Zara Sharma,69,Other,MER_0041,Reliance Mart,Link Road,Mumbai,5054.01,27/02/2024 04:51,Legit
+CUST_0058,Riya Verma,66,Female,MER_0004,Zudio,LBS Marg,Delhi,38.26,28/02/2024 09:46,Legit
+CUST_0100,Reyansh Patel,55,Other,MER_0035,Ola Payments,LBS Marg,Hyderabad,5043.28,29/02/2024 04:29,Legit
+CUST_0060,Sanya Patel,41,Male,MER_0036,Amazon Store,Outer Ring Road,Delhi,497.17,01/03/2024 04:43,Legit
+CUST_0004,Tara Verma,57,Male,MER_0044,Spencers,Brigade Road,Kolkata,2129.94,01/03/2024 14:35,Legit
+CUST_0054,Zara Sharma,24,Female,MER_0029,TataCliq Merchant,Outer Ring Road,Hyderabad,1285.6,01/03/2024 20:28,Legit
+CUST_0090,Reyansh Sharma,65,Female,MER_0030,Zudio,Outer Ring Road,Chennai,4722.14,02/03/2024 08:09,Legit
+CUST_0062,Ananya Khan,39,Male,MER_0036,Big Bazaar,Link Road,Delhi,107.31,03/03/2024 01:20,Legit
+CUST_0071,Aarav Patel,48,Female,MER_0001,Urban Ladder,Brigade Road,Pune,997.44,03/03/2024 11:17,Legit
+CUST_0068,Aisha Sharma,20,Female,MER_0004,Tanishq,Brigade Road,Hyderabad,3838.04,04/03/2024 10:14,Legit
+CUST_0017,Diya Khan,63,Male,MER_0028,Zudio,MG Road,Pune,3437.86,04/03/2024 12:54,Legit
+CUST_0098,Aisha Iyer,57,Other,MER_0048,Tanishq,Link Road,Delhi,2116.18,05/03/2024 18:16,Legit
+CUST_0017,Diya Khan,63,Male,MER_0028,Zudio,MG Road,Pune,4130.76,06/03/2024 12:54,Fraud
+CUST_0054,Ananya Rao,64,Female,MER_0007,Myntra Seller,Park Street,Mumbai,3374.55,06/03/2024 17:58,Legit
+CUST_0024,Mohit Khan,37,Male,MER_0031,Zudio,Brigade Road,Pune,2541.67,07/03/2024 12:58,Legit
+CUST_0066,Kabir Iyer,29,Other,MER_0004,Urban Ladder,LBS Marg,Kolkata,2508.69,07/03/2024 18:59,Legit
+CUST_0090,Ananya Rao,64,Female,MER_0024,Zudio,Link Road,Mumbai,3612.42,09/03/2024 18:11,Legit
+CUST_0024,Aditya Patel,29,Female,MER_0005,Zudio,LBS Marg,Hyderabad,488.46,12/03/2024 13:09,Legit
+CUST_0061,Zara Verma,63,Other,MER_0044,Myntra Seller,Ring Road,Hyderabad,3375.58,12/03/2024 16:23,Legit
+CUST_0029,Rohit Rao,50,Female,MER_0039,Ikea Local,Park Street,Hyderabad,6223.77,13/03/2024 18:37,Legit
+CUST_0037,Mohit Iyer,65,Male,MER_0039,Zudio,Outer Ring Road,Pune,4351.22,13/03/2024 19:34,Legit
+CUST_0087,Meera Khan,53,Other,MER_0047,Chai Point,Park Street,Kolkata,397.18,15/03/2024 16:37,Legit
+CUST_0081,Aarav Patel,57,Female,MER_0019,DMart,LBS Marg,Chennai,932.32,15/03/2024 21:00,Legit
+CUST_0011,Aditya Patel,62,Other,MER_0035,TataCliq Merchant,LBS Marg,Chennai,3948.15,15/03/2024 21:55,Legit
+CUST_0010,Diya Patel,70,Female,MER_0024,Chai Point,Park Street,Bengaluru,4542.06,16/03/2024 21:33,Legit
+CUST_0068,Kabir Sharma,55,Female,MER_0002,Flipkart Hub,Brigade Road,Mumbai,3790.25,17/03/2024 00:48,Legit
+CUST_0091,Tara Rao,40,Male,MER_0044,Chai Point,Brigade Road,Bengaluru,3955.88,18/03/2024 06:31,Legit
+CUST_0061,Tara Rao,23,Female,MER_0021,Amazon Store,Park Street,Bengaluru,6687.51,18/03/2024 10:31,Legit
+CUST_0011,Aditya Patel,62,Other,MER_0035,TataCliq Merchant,LBS Marg,Chennai,2050.08,18/03/2024 21:55,Fraud
+CUST_0066,Vivaan Iyer,46,Other,MER_0028,Croma Electronics,Park Street,Pune,5349.94,19/03/2024 00:20,Legit
+CUST_0071,Arjun Sharma,68,Other,MER_0040,Reliance Mart,Outer Ring Road,Pune,2863.77,19/03/2024 12:03,Legit
+CUST_0008,Sanya Patel,42,Other,MER_0029,DMart,Link Road,Pune,3051.08,19/03/2024 13:04,Legit
+CUST_0071,Arjun Sharma,53,Female,MER_0009,Reliance Mart,Outer Ring Road,Chennai,3787.76,20/03/2024 12:33,Legit
+CUST_0097,Kabir Khan,67,Other,MER_0047,Big Bazaar,Outer Ring Road,Delhi,1218.65,20/03/2024 13:44,Legit
+CUST_0082,Aarav Sharma,33,Other,MER_0017,Spencers,Park Street,Chennai,2228.1,21/03/2024 04:14,Legit
+CUST_0081,Aarav Verma,46,Male,MER_0008,DMart,Outer Ring Road,Hyderabad,82.17,21/03/2024 18:41,Legit
+CUST_0095,Sara Khan,23,Male,MER_0006,Amazon Store,Outer Ring Road,Pune,282.4,22/03/2024 00:57,Legit
+CUST_0038,Sanya Patel,67,Other,MER_0047,Zomato Partner,Link Road,Kolkata,466.45,23/03/2024 09:40,Legit
+CUST_0060,Arjun Sharma,57,Male,MER_0006,Urban Ladder,Ring Road,Kolkata,52.43,23/03/2024 14:25,Legit
+CUST_0074,Mohit Verma,60,Male,MER_0011,Tanishq,Park Street,Pune,1717.77,24/03/2024 11:09,Legit
+CUST_0015,Meera Rao,40,Other,MER_0017,Zomato Partner,Ring Road,Delhi,122.44,25/03/2024 00:20,Legit
+CUST_0040,Aarav Iyer,56,Other,MER_0045,Zudio,MG Road,Chennai,1026.82,25/03/2024 02:35,Legit
+CUST_0060,Arjun Sharma,57,Male,MER_0006,Urban Ladder,Ring Road,Kolkata,752.58,25/03/2024 14:25,Fraud
+CUST_0011,Rohit Rao,26,Male,MER_0011,Big Bazaar,Park Street,Mumbai,2867.98,27/03/2024 20:23,Legit
+CUST_0040,Aarav Iyer,56,Other,MER_0045,Zudio,MG Road,Chennai,1110.62,28/03/2024 02:35,Fraud
+CUST_0074,Mohit Verma,60,Male,MER_0011,Tanishq,Park Street,Pune,1708.26,28/03/2024 11:09,Fraud
+CUST_0007,Vivaan Rao,63,Female,MER_0048,Chai Point,LBS Marg,Bengaluru,1519.49,28/03/2024 14:17,Legit
+CUST_0085,Sara Rao,30,Other,MER_0029,Spencers,MG Road,Bengaluru,2405.51,29/03/2024 13:21,Legit
+CUST_0029,Sanya Sharma,57,Other,MER_0031,TataCliq Merchant,Outer Ring Road,Pune,1833.42,30/03/2024 06:10,Legit
+CUST_0054,Kabir Patel,55,Female,MER_0045,Croma Electronics,MG Road,Kolkata,3607.37,31/03/2024 05:45,Legit
+CUST_0056,Ananya Patel,32,Male,MER_0045,Amazon Store,Outer Ring Road,Pune,504.3,31/03/2024 23:53,Legit
+CUST_0056,Ananya Patel,32,Male,MER_0045,Amazon Store,Outer Ring Road,Pune,2184.38,01/04/2024 23:53,Fraud
+CUST_0096,Riya Iyer,39,Female,MER_0009,Ikea Local,MG Road,Mumbai,5724.55,03/04/2024 05:36,Legit
+CUST_0099,Aditya Patel,40,Other,MER_0046,Reliance Mart,Park Street,Pune,2172.99,03/04/2024 09:06,Legit
+CUST_0075,Rohit Rao,40,Male,MER_0014,Big Bazaar,Ring Road,Pune,1183.64,03/04/2024 09:14,Legit
+CUST_0065,Kabir Khan,25,Other,MER_0038,DMart,Park Street,Pune,2190.69,03/04/2024 12:27,Legit
+CUST_0079,Rohit Sharma,34,Female,MER_0028,Big Bazaar,Ring Road,Chennai,2761.33,04/04/2024 03:40,Legit
+CUST_0012,Lakshmi Rao,23,Female,MER_0032,Zudio,MG Road,Hyderabad,2065.51,04/04/2024 12:13,Legit
+CUST_0062,Zara Iyer,48,Female,MER_0030,DMart,Ring Road,Mumbai,5105.66,04/04/2024 18:30,Legit
+CUST_0083,Aditya Sharma,59,Female,MER_0018,Ola Payments,Park Street,Bengaluru,1953.57,05/04/2024 12:39,Legit
+CUST_0044,Ananya Verma,59,Other,MER_0041,Big Bazaar,Park Street,Chennai,3616.14,05/04/2024 12:57,Legit
+CUST_0033,Diya Rao,41,Other,MER_0029,Ola Payments,Park Street,Hyderabad,2127.53,06/04/2024 02:01,Legit
+CUST_0007,Ananya Khan,62,Other,MER_0049,Spencers,LBS Marg,Delhi,2696.65,06/04/2024 02:32,Legit
+CUST_0100,Zara Rao,34,Other,MER_0014,Zomato Partner,Ring Road,Pune,2377.58,06/04/2024 04:32,Legit
+CUST_0063,Vivaan Sharma,29,Other,MER_0016,Amazon Store,Outer Ring Road,Bengaluru,1704.71,06/04/2024 09:04,Legit
+CUST_0065,Kabir Khan,25,Other,MER_0038,DMart,Park Street,Pune,5184.66,06/04/2024 12:27,Fraud
+CUST_0086,Tara Sharma,39,Male,MER_0024,Nykaa Store,LBS Marg,Delhi,2387.66,06/04/2024 15:49,Legit
+CUST_0075,Rohit Rao,40,Male,MER_0014,Big Bazaar,Ring Road,Pune,680.35,07/04/2024 09:14,Fraud
+CUST_0012,Lakshmi Rao,23,Female,MER_0032,Zudio,MG Road,Hyderabad,3561,07/04/2024 12:13,Fraud
+CUST_0055,Mohit Patel,34,Female,MER_0029,Zudio,Link Road,Hyderabad,972.7,07/04/2024 16:59,Legit
+CUST_0061,Neha Rao,62,Other,MER_0008,Chai Point,Park Street,Delhi,4884.75,07/04/2024 17:36,Legit
+CUST_0039,Mohit Khan,34,Male,MER_0004,Ikea Local,Brigade Road,Mumbai,1310.47,08/04/2024 17:24,Legit
+CUST_0024,Mohit Iyer,44,Male,MER_0026,Big Bazaar,LBS Marg,Hyderabad,2692.98,08/04/2024 18:52,Legit
+CUST_0015,Ananya Patel,41,Other,MER_0047,TataCliq Merchant,LBS Marg,Pune,3816.88,08/04/2024 19:54,Legit
+CUST_0035,Aarav Patel,46,Male,MER_0006,TataCliq Merchant,MG Road,Hyderabad,2688.57,09/04/2024 01:15,Legit
+CUST_0069,Aarav Sharma,48,Female,MER_0020,Reliance Mart,Link Road,Pune,136.13,09/04/2024 04:43,Legit
+CUST_0060,Tara Patel,25,Male,MER_0029,Tanishq,Ring Road,Delhi,1363.39,09/04/2024 12:06,Legit
+CUST_0067,Rohit Rao,40,Female,MER_0050,Zudio,Outer Ring Road,Mumbai,1136.13,10/04/2024 04:02,Legit
+CUST_0068,Mohit Sharma,66,Male,MER_0034,Amazon Store,LBS Marg,Hyderabad,3073.92,10/04/2024 08:26,Legit
+CUST_0063,Vivaan Sharma,29,Other,MER_0016,Amazon Store,Outer Ring Road,Bengaluru,407.53,10/04/2024 09:04,Fraud
+CUST_0083,Kabir Rao,66,Other,MER_0045,Chai Point,Brigade Road,Pune,3358.48,10/04/2024 10:57,Legit
+CUST_0004,Tara Khan,37,Female,MER_0040,Zomato Partner,Park Street,Bengaluru,2124.35,11/04/2024 22:00,Legit
+CUST_0060,Tara Patel,25,Male,MER_0029,Tanishq,Ring Road,Delhi,818.55,12/04/2024 12:06,Fraud
+CUST_0038,Kabir Khan,70,Male,MER_0021,Zomato Partner,Outer Ring Road,Hyderabad,2631.53,12/04/2024 17:38,Legit
+CUST_0060,Zara Verma,21,Male,MER_0009,Chai Point,MG Road,Kolkata,2348.5,13/04/2024 00:54,Legit
+CUST_0018,Reyansh Sharma,59,Male,MER_0010,TataCliq Merchant,Brigade Road,Chennai,1478.91,13/04/2024 19:20,Legit
+CUST_0071,Sara Verma,56,Female,MER_0040,Reliance Mart,Brigade Road,Hyderabad,957.14,14/04/2024 16:06,Legit
+CUST_0038,Tara Iyer,46,Male,MER_0031,Tanishq,LBS Marg,Delhi,2154.82,14/04/2024 23:32,Legit
+CUST_0036,Meera Iyer,48,Male,MER_0037,Reliance Mart,Park Street,Mumbai,3998.79,15/04/2024 11:20,Legit
+CUST_0055,Vivaan Verma,51,Male,MER_0030,Urban Ladder,Ring Road,Bengaluru,3152.91,16/04/2024 22:09,Legit
+CUST_0077,Lakshmi Sharma,42,Female,MER_0002,Croma Electronics,Link Road,Mumbai,3067.23,16/04/2024 23:28,Legit
+CUST_0015,Zara Rao,28,Male,MER_0021,Flipkart Hub,Park Street,Bengaluru,2921.97,17/04/2024 07:10,Legit
+CUST_0032,Zara Patel,63,Female,MER_0043,Nykaa Store,MG Road,Delhi,3012.63,17/04/2024 15:46,Legit
+CUST_0088,Diya Patel,63,Female,MER_0020,TataCliq Merchant,Ring Road,Hyderabad,1953.64,17/04/2024 20:18,Legit
+CUST_0071,Zara Sharma,59,Male,MER_0036,TataCliq Merchant,Brigade Road,Mumbai,2625.96,17/04/2024 21:36,Legit
+CUST_0093,Sara Iyer,27,Female,MER_0002,Ola Payments,Link Road,Mumbai,3373.44,17/04/2024 22:50,Legit
+CUST_0011,Sara Verma,67,Female,MER_0003,Spencers,Brigade Road,Kolkata,489.86,19/04/2024 10:19,Legit
+CUST_0043,Zara Rao,43,Female,MER_0023,Urban Ladder,Outer Ring Road,Mumbai,2943.79,21/04/2024 01:06,Legit
+CUST_0096,Meera Patel,23,Other,MER_0022,Ola Payments,Link Road,Bengaluru,1087.38,21/04/2024 11:43,Legit
+CUST_0039,Tara Patel,64,Female,MER_0003,Spencers,Link Road,Bengaluru,4504.81,23/04/2024 03:16,Legit
+CUST_0047,Meera Patel,52,Other,MER_0025,Urban Ladder,Park Street,Pune,4029.32,23/04/2024 10:41,Legit
+CUST_0044,Kabir Sharma,49,Female,MER_0029,Big Bazaar,Link Road,Pune,1822.01,23/04/2024 17:18,Legit
+CUST_0062,Aarav Rao,67,Female,MER_0023,Zomato Partner,Outer Ring Road,Bengaluru,1821.31,24/04/2024 07:17,Legit
+CUST_0063,Mohit Iyer,32,Female,MER_0038,Urban Ladder,MG Road,Hyderabad,2647.98,25/04/2024 02:42,Legit
+CUST_0077,Aisha Sharma,67,Male,MER_0047,Zomato Partner,Brigade Road,Bengaluru,2257.95,25/04/2024 12:22,Legit
+CUST_0044,Kabir Sharma,49,Female,MER_0029,Big Bazaar,Link Road,Pune,556.95,25/04/2024 17:18,Fraud
+CUST_0078,Aisha Rao,54,Other,MER_0027,Amazon Store,MG Road,Bengaluru,3777.36,27/04/2024 12:19,Legit
+CUST_0095,Diya Rao,65,Female,MER_0024,DMart,LBS Marg,Delhi,3845.83,27/04/2024 15:26,Legit
+CUST_0045,Meera Patel,67,Female,MER_0025,Flipkart Hub,LBS Marg,Mumbai,1125.56,27/04/2024 20:56,Legit
+CUST_0062,Aarav Rao,67,Female,MER_0023,Zomato Partner,Outer Ring Road,Bengaluru,3944.32,29/04/2024 07:17,Fraud
+CUST_0022,Vivaan Patel,66,Other,MER_0046,Ikea Local,Ring Road,Hyderabad,441.27,30/04/2024 04:53,Legit
+CUST_0052,Mohit Rao,28,Other,MER_0027,Spencers,Ring Road,Pune,3344.41,30/04/2024 08:13,Legit
+CUST_0077,Aisha Sharma,18,Female,MER_0044,Myntra Seller,Outer Ring Road,Hyderabad,360.7,30/04/2024 16:43,Legit
+CUST_0038,Riya Rao,48,Female,MER_0041,Ikea Local,Ring Road,Pune,1306.51,01/05/2024 23:32,Legit
+CUST_0026,Riya Iyer,42,Male,MER_0002,Ola Payments,Outer Ring Road,Pune,1692.59,02/05/2024 09:02,Legit
+CUST_0007,Sanya Sharma,68,Male,MER_0020,Myntra Seller,Brigade Road,Hyderabad,1481.06,02/05/2024 11:22,Legit
+CUST_0077,Aisha Sharma,18,Female,MER_0044,Myntra Seller,Outer Ring Road,Hyderabad,2444.42,02/05/2024 16:43,Fraud
+CUST_0072,Arjun Verma,27,Male,MER_0036,Tanishq,Brigade Road,Bengaluru,4367.92,04/05/2024 18:34,Legit
+CUST_0028,Kabir Verma,24,Male,MER_0014,Tanishq,LBS Marg,Bengaluru,3079.96,05/05/2024 02:10,Legit
+CUST_0036,Aarav Khan,65,Male,MER_0012,TataCliq Merchant,MG Road,Bengaluru,3601.07,06/05/2024 09:49,Legit
+CUST_0036,Tara Rao,51,Other,MER_0048,Zomato Partner,Brigade Road,Kolkata,1991.69,07/05/2024 01:07,Legit
+CUST_0019,Aditya Patel,59,Female,MER_0025,TataCliq Merchant,LBS Marg,Hyderabad,2916.44,07/05/2024 04:46,Legit
+CUST_0076,Riya Rao,40,Female,MER_0034,Spencers,Ring Road,Hyderabad,3254.49,08/05/2024 11:41,Legit
+CUST_0012,Aarav Khan,36,Male,MER_0036,Reliance Mart,Link Road,Hyderabad,59.03,10/05/2024 23:05,Legit
+CUST_0057,Neha Khan,62,Female,MER_0003,Amazon Store,Outer Ring Road,Kolkata,4299.32,11/05/2024 04:19,Legit
+CUST_0064,Rohit Rao,46,Other,MER_0013,Big Bazaar,Park Street,Kolkata,2834.66,11/05/2024 06:14,Legit
+CUST_0091,Vivaan Iyer,29,Female,MER_0022,Nykaa Store,Brigade Road,Hyderabad,1035.82,11/05/2024 06:36,Legit
+CUST_0065,Aditya Khan,62,Male,MER_0004,Big Bazaar,Park Street,Mumbai,905.7,12/05/2024 01:58,Legit
+CUST_0010,Rohit Verma,37,Female,MER_0025,Urban Ladder,MG Road,Delhi,1322.05,13/05/2024 06:49,Legit
+CUST_0039,Reyansh Patel,20,Other,MER_0026,Myntra Seller,Outer Ring Road,Mumbai,2101.97,13/05/2024 21:40,Legit
+CUST_0042,Aisha Verma,19,Female,MER_0018,Ola Payments,Link Road,Mumbai,1391.88,14/05/2024 05:12,Legit
+CUST_0084,Riya Verma,45,Female,MER_0042,Zomato Partner,LBS Marg,Chennai,1635.35,15/05/2024 22:10,Legit
+CUST_0006,Arjun Iyer,70,Male,MER_0020,Big Bazaar,MG Road,Mumbai,3088.91,16/05/2024 23:51,Legit
+CUST_0038,Ananya Khan,63,Other,MER_0011,Spencers,Brigade Road,Kolkata,242.08,17/05/2024 04:43,Legit
+CUST_0069,Vivaan Iyer,58,Female,MER_0044,Tanishq,Link Road,Pune,1258.38,17/05/2024 11:26,Legit
+CUST_0018,Diya Iyer,19,Female,MER_0019,Ola Payments,Outer Ring Road,Pune,3170.57,17/05/2024 19:17,Legit
+CUST_0014,Aisha Iyer,56,Male,MER_0015,Flipkart Hub,Ring Road,Pune,241.62,18/05/2024 00:36,Legit
+CUST_0078,Ananya Iyer,22,Female,MER_0005,Zomato Partner,Park Street,Hyderabad,2602.39,18/05/2024 05:23,Legit
+CUST_0006,Arjun Iyer,70,Male,MER_0020,Big Bazaar,MG Road,Mumbai,1389.34,18/05/2024 23:51,Fraud
+CUST_0020,Mohit Verma,70,Female,MER_0025,Myntra Seller,Outer Ring Road,Hyderabad,4146.7,19/05/2024 06:50,Legit
+CUST_0085,Tara Patel,70,Male,MER_0008,Reliance Mart,Ring Road,Chennai,3080.99,19/05/2024 08:12,Legit
+CUST_0051,Lakshmi Sharma,58,Other,MER_0008,Tanishq,Outer Ring Road,Mumbai,1454.79,20/05/2024 00:56,Legit
+CUST_0084,Riya Verma,45,Female,MER_0042,Zomato Partner,LBS Marg,Chennai,1209.47,20/05/2024 22:10,Fraud
+CUST_0069,Aisha Khan,36,Male,MER_0039,Nykaa Store,LBS Marg,Hyderabad,3810.47,21/05/2024 03:35,Legit
+CUST_0045,Meera Khan,19,Female,MER_0022,Ola Payments,Ring Road,Chennai,3909.99,21/05/2024 19:53,Legit
+CUST_0051,Lakshmi Sharma,58,Other,MER_0008,Tanishq,Outer Ring Road,Mumbai,2959.78,22/05/2024 00:56,Fraud
+CUST_0057,Zara Iyer,26,Other,MER_0005,Flipkart Hub,MG Road,Pune,4341.19,22/05/2024 01:38,Legit
+CUST_0056,Sanya Iyer,60,Male,MER_0014,Amazon Store,Brigade Road,Bengaluru,5706.52,22/05/2024 20:10,Legit
+CUST_0063,Tara Sharma,44,Male,MER_0002,Chai Point,Brigade Road,Kolkata,1085.43,23/05/2024 09:46,Legit
+CUST_0022,Kabir Verma,60,Other,MER_0047,Tanishq,Ring Road,Delhi,2093.79,23/05/2024 12:27,Legit
+CUST_0021,Reyansh Sharma,29,Female,MER_0033,Big Bazaar,LBS Marg,Chennai,3182.91,23/05/2024 20:00,Legit
+CUST_0084,Riya Khan,65,Female,MER_0042,Amazon Store,Ring Road,Bengaluru,1587.91,24/05/2024 06:39,Legit
+CUST_0056,Aarav Verma,27,Male,MER_0024,Flipkart Hub,Outer Ring Road,Pune,1701.89,25/05/2024 03:21,Legit
+CUST_0007,Rohit Sharma,62,Other,MER_0021,Big Bazaar,Ring Road,Hyderabad,3544.08,25/05/2024 07:20,Legit
+CUST_0025,Sanya Iyer,69,Other,MER_0031,Nykaa Store,Outer Ring Road,Delhi,3881.29,26/05/2024 03:31,Legit
+CUST_0084,Riya Khan,65,Female,MER_0042,Amazon Store,Ring Road,Bengaluru,2521.41,26/05/2024 06:39,Fraud
+CUST_0063,Tara Sharma,44,Male,MER_0002,Chai Point,Brigade Road,Kolkata,1276.26,26/05/2024 09:46,Fraud
+CUST_0070,Neha Rao,55,Female,MER_0025,Tanishq,MG Road,Mumbai,3004.87,27/05/2024 08:48,Legit
+CUST_0054,Neha Verma,49,Male,MER_0001,Chai Point,Brigade Road,Pune,1521.11,27/05/2024 15:07,Legit
+CUST_0094,Zara Verma,36,Other,MER_0001,DMart,Ring Road,Pune,4074.5,31/05/2024 07:37,Legit
+CUST_0038,Rohit Patel,48,Female,MER_0035,Big Bazaar,Park Street,Mumbai,1817.93,31/05/2024 08:02,Legit
+CUST_0061,Diya Patel,52,Other,MER_0031,Nykaa Store,MG Road,Hyderabad,1093.71,01/06/2024 08:40,Legit
+CUST_0044,Rohit Iyer,23,Male,MER_0017,Spencers,Ring Road,Chennai,1109.02,02/06/2024 21:42,Legit
+CUST_0099,Tara Verma,52,Other,MER_0019,Tanishq,LBS Marg,Bengaluru,1186.2,03/06/2024 10:55,Legit
+CUST_0083,Tara Sharma,50,Other,MER_0016,Urban Ladder,Ring Road,Mumbai,4442.8,03/06/2024 12:14,Legit
+CUST_0073,Lakshmi Rao,62,Other,MER_0045,Flipkart Hub,LBS Marg,Mumbai,1185.88,03/06/2024 15:49,Legit
+CUST_0098,Mohit Iyer,61,Male,MER_0047,Ikea Local,LBS Marg,Pune,2377.61,04/06/2024 09:17,Legit
+CUST_0044,Reyansh Patel,64,Other,MER_0036,Urban Ladder,Ring Road,Pune,2816.97,05/06/2024 03:01,Legit
+CUST_0092,Tara Patel,26,Other,MER_0009,DMart,Link Road,Mumbai,2855.07,05/06/2024 03:51,Legit
+CUST_0039,Sanya Patel,66,Male,MER_0029,Spencers,Link Road,Chennai,1258.93,05/06/2024 22:42,Legit
+CUST_0098,Mohit Iyer,61,Male,MER_0047,Ikea Local,LBS Marg,Pune,1348.83,07/06/2024 09:17,Fraud
+CUST_0100,Neha Patel,40,Female,MER_0018,Amazon Store,Outer Ring Road,Chennai,2468.53,09/06/2024 14:41,Legit
+CUST_0056,Kabir Sharma,25,Other,MER_0043,Spencers,Ring Road,Chennai,2577.47,10/06/2024 06:47,Legit
+CUST_0062,Lakshmi Verma,66,Other,MER_0045,Myntra Seller,Brigade Road,Delhi,116.85,10/06/2024 11:21,Legit
+CUST_0046,Zara Rao,19,Male,MER_0042,Croma Electronics,Outer Ring Road,Chennai,3336.26,11/06/2024 14:35,Legit
+CUST_0094,Sanya Rao,50,Female,MER_0025,Ola Payments,Brigade Road,Pune,3537.63,14/06/2024 06:47,Legit
+CUST_0011,Aditya Iyer,51,Male,MER_0009,Spencers,Ring Road,Pune,324.58,14/06/2024 14:20,Legit
+CUST_0040,Ananya Iyer,45,Female,MER_0037,Amazon Store,LBS Marg,Mumbai,2811.68,14/06/2024 20:49,Legit
+CUST_0036,Lakshmi Khan,59,Male,MER_0002,Chai Point,LBS Marg,Chennai,2486.45,15/06/2024 05:46,Legit
+CUST_0024,Riya Patel,48,Male,MER_0038,Tanishq,Ring Road,Chennai,1676.8,15/06/2024 06:08,Legit
+CUST_0049,Aisha Sharma,44,Male,MER_0036,Ikea Local,Brigade Road,Mumbai,337.99,15/06/2024 14:10,Legit
+CUST_0087,Kabir Patel,28,Female,MER_0030,Zomato Partner,Ring Road,Hyderabad,1734.89,16/06/2024 01:07,Legit
+CUST_0018,Tara Rao,36,Female,MER_0004,Myntra Seller,LBS Marg,Bengaluru,2004.12,16/06/2024 07:56,Legit
+CUST_0011,Reyansh Patel,49,Female,MER_0013,Amazon Store,Park Street,Hyderabad,4115.72,16/06/2024 08:43,Legit
+CUST_0025,Neha Rao,30,Male,MER_0050,Tanishq,Brigade Road,Bengaluru,1806.27,16/06/2024 19:49,Legit
+CUST_0097,Arjun Khan,30,Other,MER_0039,TataCliq Merchant,Park Street,Delhi,6107.67,17/06/2024 16:25,Legit
+CUST_0056,Mohit Sharma,64,Female,MER_0043,Ikea Local,Brigade Road,Chennai,4123.74,18/06/2024 00:54,Legit
+CUST_0005,Sanya Khan,47,Male,MER_0025,Croma Electronics,Brigade Road,Bengaluru,4485.23,18/06/2024 17:30,Legit
+CUST_0097,Kabir Patel,33,Other,MER_0004,Spencers,Ring Road,Pune,424.57,19/06/2024 08:19,Legit
+CUST_0009,Tara Rao,53,Other,MER_0046,Myntra Seller,Outer Ring Road,Pune,836.1,19/06/2024 23:51,Legit
+CUST_0050,Aarav Rao,19,Male,MER_0037,Zomato Partner,Ring Road,Delhi,3010.15,20/06/2024 11:36,Legit
+CUST_0062,Aditya Rao,42,Female,MER_0027,Chai Point,Outer Ring Road,Hyderabad,1945.76,20/06/2024 22:22,Legit
+CUST_0060,Kabir Khan,47,Female,MER_0050,Ikea Local,Ring Road,Pune,2796.78,22/06/2024 00:58,Legit
+CUST_0045,Aditya Khan,23,Other,MER_0002,Urban Ladder,Park Street,Bengaluru,536.2,22/06/2024 16:13,Legit
+CUST_0026,Aisha Khan,45,Other,MER_0044,Croma Electronics,Link Road,Mumbai,1674.88,22/06/2024 16:34,Legit
+CUST_0080,Lakshmi Iyer,45,Other,MER_0023,Myntra Seller,Brigade Road,Mumbai,1373.54,23/06/2024 13:30,Legit
+CUST_0033,Lakshmi Rao,49,Female,MER_0014,Myntra Seller,MG Road,Mumbai,1618.94,23/06/2024 18:22,Legit
+CUST_0051,Arjun Rao,22,Male,MER_0009,DMart,Link Road,Kolkata,3786.88,25/06/2024 02:32,Legit
+CUST_0075,Zara Iyer,61,Female,MER_0007,Tanishq,Park Street,Kolkata,2120.11,25/06/2024 09:15,Legit
+CUST_0086,Sara Khan,60,Other,MER_0035,Urban Ladder,LBS Marg,Bengaluru,3971.78,25/06/2024 10:08,Legit
+CUST_0045,Aditya Khan,23,Other,MER_0002,Urban Ladder,Park Street,Bengaluru,1042.83,25/06/2024 16:13,Fraud
+CUST_0030,Vivaan Rao,55,Male,MER_0002,Urban Ladder,Ring Road,Pune,2639.19,26/06/2024 08:32,Legit
+CUST_0052,Ananya Sharma,19,Other,MER_0049,Chai Point,Park Street,Bengaluru,2941.53,26/06/2024 10:55,Legit
+CUST_0078,Rohit Rao,34,Other,MER_0023,Ikea Local,Outer Ring Road,Bengaluru,672.52,28/06/2024 01:24,Legit
+CUST_0045,Rohit Sharma,62,Female,MER_0002,Tanishq,Outer Ring Road,Hyderabad,5613.48,29/06/2024 03:41,Legit
+CUST_0017,Mohit Sharma,22,Other,MER_0033,Croma Electronics,Link Road,Bengaluru,1168.47,29/06/2024 16:00,Legit
+CUST_0020,Meera Patel,56,Male,MER_0022,Ola Payments,Park Street,Mumbai,2076.64,30/06/2024 00:20,Legit
+CUST_0031,Aisha Patel,38,Male,MER_0048,Ola Payments,Link Road,Chennai,3625.62,01/07/2024 10:03,Legit
+CUST_0084,Riya Iyer,52,Other,MER_0042,Ola Payments,MG Road,Pune,2664.89,02/07/2024 06:40,Legit
+CUST_0078,Rohit Rao,34,Other,MER_0023,Ikea Local,Outer Ring Road,Bengaluru,3305.11,03/07/2024 01:24,Fraud
+CUST_0004,Ananya Khan,48,Female,MER_0001,Amazon Store,Ring Road,Bengaluru,153.83,03/07/2024 13:10,Legit
+CUST_0100,Kabir Iyer,34,Female,MER_0045,Myntra Seller,Brigade Road,Hyderabad,5089.31,03/07/2024 23:08,Legit
+CUST_0006,Mohit Sharma,44,Male,MER_0048,DMart,LBS Marg,Chennai,5275.1,04/07/2024 02:10,Legit
+CUST_0057,Tara Khan,21,Male,MER_0012,Zudio,Ring Road,Hyderabad,3539.85,04/07/2024 13:25,Legit
+CUST_0052,Ananya Patel,66,Male,MER_0011,Croma Electronics,Outer Ring Road,Hyderabad,3881.87,04/07/2024 16:13,Legit
+CUST_0036,Kabir Iyer,52,Other,MER_0038,Chai Point,Park Street,Delhi,3784.17,04/07/2024 22:45,Legit
+CUST_0099,Neha Khan,44,Male,MER_0042,Tanishq,Brigade Road,Chennai,4971.01,05/07/2024 11:09,Legit
+CUST_0059,Kabir Patel,49,Female,MER_0021,Ola Payments,Outer Ring Road,Chennai,3897.5,05/07/2024 22:35,Legit
+CUST_0095,Lakshmi Verma,47,Other,MER_0046,Croma Electronics,MG Road,Delhi,786.25,06/07/2024 00:43,Legit
+CUST_0031,Aisha Khan,47,Other,MER_0047,Big Bazaar,LBS Marg,Delhi,4966.94,07/07/2024 14:28,Legit
+CUST_0005,Tara Patel,27,Male,MER_0050,Chai Point,Link Road,Delhi,3666.29,08/07/2024 01:20,Legit
+CUST_0056,Kabir Iyer,23,Female,MER_0024,Nykaa Store,Park Street,Bengaluru,1090.71,09/07/2024 19:37,Legit
+CUST_0098,Sara Iyer,52,Other,MER_0033,TataCliq Merchant,Outer Ring Road,Pune,3075.44,10/07/2024 03:11,Legit
+CUST_0057,Ananya Verma,31,Other,MER_0035,Myntra Seller,MG Road,Bengaluru,4826.67,11/07/2024 02:18,Legit
+CUST_0020,Tara Verma,66,Other,MER_0016,Big Bazaar,Ring Road,Kolkata,2477.05,11/07/2024 11:12,Legit
+CUST_0090,Rohit Iyer,45,Male,MER_0033,Zomato Partner,MG Road,Bengaluru,6222.66,11/07/2024 14:51,Legit
+CUST_0050,Mohit Khan,64,Female,MER_0031,Tanishq,Outer Ring Road,Bengaluru,1931.35,11/07/2024 23:51,Legit
+CUST_0028,Neha Sharma,54,Male,MER_0003,Zomato Partner,Brigade Road,Kolkata,2941.8,13/07/2024 01:21,Legit
+CUST_0025,Aisha Khan,48,Other,MER_0006,Ola Payments,Link Road,Hyderabad,2156.27,15/07/2024 00:47,Legit
+CUST_0031,Diya Verma,34,Other,MER_0027,Zudio,Ring Road,Kolkata,2628.87,17/07/2024 08:01,Legit
+CUST_0022,Aditya Patel,66,Female,MER_0017,Ola Payments,MG Road,Hyderabad,513.25,17/07/2024 20:06,Legit
+CUST_0093,Aisha Khan,49,Male,MER_0005,Flipkart Hub,Brigade Road,Delhi,2665.03,18/07/2024 02:18,Legit
+CUST_0056,Tara Verma,34,Male,MER_0034,Tanishq,Brigade Road,Chennai,1044.66,18/07/2024 14:46,Legit
+CUST_0096,Sara Iyer,32,Other,MER_0011,Chai Point,Park Street,Mumbai,3497.66,19/07/2024 10:25,Legit
+CUST_0050,Aarav Iyer,21,Other,MER_0005,Croma Electronics,LBS Marg,Chennai,4263.82,19/07/2024 12:11,Legit
+CUST_0033,Zara Verma,47,Other,MER_0009,TataCliq Merchant,Link Road,Kolkata,2598.95,19/07/2024 18:28,Legit
+CUST_0015,Lakshmi Rao,38,Male,MER_0013,Tanishq,Brigade Road,Delhi,12.02,20/07/2024 01:21,Legit
+CUST_0079,Vivaan Rao,26,Female,MER_0012,Amazon Store,Brigade Road,Bengaluru,3920.68,20/07/2024 15:44,Legit
+CUST_0072,Kabir Sharma,67,Female,MER_0020,DMart,Outer Ring Road,Chennai,228.93,21/07/2024 05:10,Legit
+CUST_0047,Rohit Iyer,21,Female,MER_0043,Ola Payments,Ring Road,Chennai,1872.09,21/07/2024 13:34,Legit
+CUST_0092,Reyansh Iyer,32,Male,MER_0031,Spencers,Park Street,Chennai,3829.1,21/07/2024 23:19,Legit
+CUST_0047,Rohit Iyer,21,Female,MER_0043,Ola Payments,Ring Road,Chennai,4804.58,22/07/2024 13:34,Fraud
+CUST_0062,Riya Verma,55,Male,MER_0020,Myntra Seller,Ring Road,Bengaluru,3430.07,22/07/2024 14:40,Legit
+CUST_0094,Mohit Iyer,49,Male,MER_0033,TataCliq Merchant,Outer Ring Road,Mumbai,384.09,22/07/2024 15:49,Legit
+CUST_0027,Kabir Rao,55,Male,MER_0001,Tanishq,Park Street,Hyderabad,1969.75,22/07/2024 19:24,Legit
+CUST_0041,Aisha Verma,65,Male,MER_0006,Reliance Mart,LBS Marg,Pune,2250,23/07/2024 01:05,Legit
+CUST_0028,Riya Iyer,35,Other,MER_0012,Amazon Store,Ring Road,Bengaluru,816.09,23/07/2024 07:43,Legit
+CUST_0036,Diya Verma,39,Male,MER_0028,Big Bazaar,Link Road,Mumbai,2830.1,23/07/2024 09:13,Legit
+CUST_0027,Kabir Rao,55,Male,MER_0001,Tanishq,Park Street,Hyderabad,255.22,23/07/2024 19:24,Fraud
+CUST_0072,Kabir Sharma,67,Female,MER_0020,DMart,Outer Ring Road,Chennai,956.36,24/07/2024 05:10,Fraud
+CUST_0081,Aarav Iyer,19,Female,MER_0001,Reliance Mart,Outer Ring Road,Bengaluru,1072.47,24/07/2024 08:29,Legit
+CUST_0036,Diya Verma,39,Male,MER_0028,Big Bazaar,Link Road,Mumbai,3107.09,24/07/2024 09:13,Fraud
+CUST_0049,Kabir Patel,33,Female,MER_0007,Tanishq,Outer Ring Road,Chennai,2172.56,25/07/2024 17:26,Legit
+CUST_0049,Kabir Patel,33,Female,MER_0007,Tanishq,Outer Ring Road,Chennai,1547.69,26/07/2024 17:26,Fraud
+CUST_0052,Lakshmi Iyer,46,Female,MER_0038,Tanishq,Park Street,Bengaluru,6144.7,27/07/2024 11:00,Legit
+CUST_0074,Lakshmi Verma,34,Female,MER_0048,Ola Payments,Park Street,Pune,3719.82,27/07/2024 15:42,Legit
+CUST_0015,Diya Khan,48,Other,MER_0011,Nykaa Store,Outer Ring Road,Chennai,5159.89,27/07/2024 21:46,Legit
+CUST_0009,Kabir Iyer,21,Female,MER_0040,Zomato Partner,Brigade Road,Kolkata,149.24,28/07/2024 12:17,Legit
+CUST_0016,Kabir Patel,54,Male,MER_0018,Reliance Mart,LBS Marg,Pune,93.87,28/07/2024 12:52,Legit
+CUST_0055,Ananya Sharma,31,Male,MER_0004,Spencers,LBS Marg,Delhi,3958.02,29/07/2024 05:22,Legit
+CUST_0026,Kabir Rao,38,Female,MER_0034,Myntra Seller,LBS Marg,Mumbai,5746.01,29/07/2024 07:37,Legit
+CUST_0059,Sara Verma,62,Female,MER_0014,Big Bazaar,Ring Road,Bengaluru,4950.16,31/07/2024 01:21,Legit
+CUST_0091,Meera Patel,67,Female,MER_0016,Urban Ladder,Brigade Road,Chennai,3088.96,31/07/2024 01:43,Legit
+CUST_0019,Rohit Iyer,66,Female,MER_0028,Amazon Store,Ring Road,Mumbai,5648.87,01/08/2024 21:48,Legit
+CUST_0024,Aditya Sharma,48,Male,MER_0005,Zudio,LBS Marg,Hyderabad,3130.95,02/08/2024 05:30,Legit
+CUST_0041,Sara Verma,44,Male,MER_0008,Amazon Store,Outer Ring Road,Bengaluru,1229.01,02/08/2024 14:30,Legit
+CUST_0084,Sanya Rao,68,Other,MER_0042,Reliance Mart,Link Road,Pune,3155.04,02/08/2024 19:49,Legit
+CUST_0041,Sara Verma,44,Male,MER_0008,Amazon Store,Outer Ring Road,Bengaluru,2303.4,03/08/2024 14:30,Fraud
+CUST_0020,Arjun Patel,42,Other,MER_0023,Chai Point,MG Road,Delhi,3382.89,04/08/2024 19:53,Legit
+CUST_0074,Aditya Rao,70,Male,MER_0019,Reliance Mart,Outer Ring Road,Mumbai,4158.43,05/08/2024 05:37,Legit
+CUST_0071,Tara Verma,30,Male,MER_0030,Big Bazaar,MG Road,Hyderabad,1915.89,05/08/2024 06:45,Legit
+CUST_0016,Aditya Khan,61,Male,MER_0023,Spencers,Brigade Road,Delhi,3453.33,05/08/2024 14:58,Legit
+CUST_0043,Vivaan Sharma,21,Other,MER_0003,Amazon Store,Outer Ring Road,Chennai,962.66,06/08/2024 18:51,Legit
+CUST_0047,Rohit Khan,30,Other,MER_0042,Myntra Seller,Park Street,Chennai,3022.41,06/08/2024 19:56,Legit
+CUST_0068,Rohit Patel,67,Other,MER_0025,DMart,LBS Marg,Delhi,2529.38,07/08/2024 08:12,Legit
+CUST_0033,Zara Patel,62,Female,MER_0005,Flipkart Hub,Ring Road,Mumbai,2809.17,07/08/2024 08:25,Legit
+CUST_0023,Mohit Rao,65,Male,MER_0012,Croma Electronics,Outer Ring Road,Chennai,3713.8,07/08/2024 18:30,Legit
+CUST_0039,Tara Verma,28,Male,MER_0041,Reliance Mart,Link Road,Chennai,3778.29,08/08/2024 07:28,Legit
+CUST_0054,Neha Rao,22,Male,MER_0027,Zudio,Brigade Road,Bengaluru,1846.26,08/08/2024 19:25,Legit
+CUST_0071,Tara Verma,30,Male,MER_0030,Big Bazaar,MG Road,Hyderabad,831.44,09/08/2024 06:45,Fraud
+CUST_0068,Rohit Patel,67,Other,MER_0025,DMart,LBS Marg,Delhi,13.6,09/08/2024 08:12,Fraud
+CUST_0023,Ananya Sharma,30,Other,MER_0026,TataCliq Merchant,Ring Road,Delhi,2900.54,10/08/2024 05:14,Legit
+CUST_0057,Diya Verma,43,Male,MER_0034,Amazon Store,Brigade Road,Chennai,3034.22,10/08/2024 12:10,Legit
+CUST_0064,Zara Verma,40,Female,MER_0009,Big Bazaar,Link Road,Hyderabad,1952.5,10/08/2024 21:05,Legit
+CUST_0086,Riya Sharma,69,Female,MER_0028,Big Bazaar,Outer Ring Road,Hyderabad,4297.11,11/08/2024 01:00,Legit
+CUST_0017,Vivaan Sharma,45,Male,MER_0038,Ola Payments,Park Street,Kolkata,987.83,11/08/2024 22:28,Legit
+CUST_0068,Mohit Khan,35,Male,MER_0004,Urban Ladder,LBS Marg,Chennai,1712.19,13/08/2024 02:41,Legit
+CUST_0018,Ananya Rao,19,Male,MER_0045,Flipkart Hub,Park Street,Delhi,1574.55,13/08/2024 20:14,Legit
+CUST_0009,Neha Khan,26,Other,MER_0005,Urban Ladder,Park Street,Mumbai,2508.91,14/08/2024 13:47,Legit
+CUST_0056,Aarav Iyer,35,Other,MER_0014,Croma Electronics,Ring Road,Chennai,3659.32,14/08/2024 21:49,Legit
+CUST_0013,Aarav Rao,35,Female,MER_0049,Chai Point,Outer Ring Road,Mumbai,260.1,15/08/2024 00:06,Legit
+CUST_0013,Aarav Rao,35,Female,MER_0049,Chai Point,Outer Ring Road,Mumbai,4291.46,17/08/2024 00:06,Fraud
+CUST_0003,Mohit Verma,24,Female,MER_0022,Zomato Partner,Brigade Road,Pune,1647.01,17/08/2024 10:54,Legit
+CUST_0005,Aisha Khan,61,Other,MER_0043,Myntra Seller,Link Road,Kolkata,1655.86,18/08/2024 22:19,Legit
+CUST_0038,Tara Patel,22,Other,MER_0022,Nykaa Store,LBS Marg,Hyderabad,3141.41,19/08/2024 17:52,Legit
+CUST_0028,Ananya Verma,21,Female,MER_0022,Urban Ladder,Outer Ring Road,Kolkata,226.89,20/08/2024 00:03,Legit
+CUST_0080,Aditya Verma,52,Other,MER_0037,Myntra Seller,Park Street,Delhi,4672.03,20/08/2024 13:21,Legit
+CUST_0029,Sanya Patel,24,Other,MER_0045,Reliance Mart,MG Road,Kolkata,1153.22,20/08/2024 17:40,Legit
+CUST_0090,Mohit Iyer,35,Female,MER_0044,Tanishq,Outer Ring Road,Hyderabad,1917.39,21/08/2024 14:52,Legit
+CUST_0024,Riya Rao,56,Male,MER_0024,Urban Ladder,Link Road,Mumbai,2609.28,22/08/2024 03:36,Legit
+CUST_0028,Ananya Verma,21,Female,MER_0022,Urban Ladder,Outer Ring Road,Kolkata,2373.44,23/08/2024 00:03,Fraud
+CUST_0035,Neha Iyer,49,Male,MER_0019,Ikea Local,Brigade Road,Delhi,701.89,23/08/2024 14:11,Legit
+CUST_0005,Aisha Khan,61,Other,MER_0043,Myntra Seller,Link Road,Kolkata,382.24,23/08/2024 22:19,Fraud
+CUST_0055,Rohit Khan,57,Other,MER_0038,DMart,Brigade Road,Kolkata,3500.14,24/08/2024 02:23,Legit
+CUST_0032,Reyansh Verma,41,Male,MER_0038,Zudio,MG Road,Bengaluru,1494.33,25/08/2024 10:11,Legit
+CUST_0029,Sanya Patel,24,Other,MER_0045,Reliance Mart,MG Road,Kolkata,2618.66,25/08/2024 17:40,Fraud
+CUST_0074,Aisha Verma,59,Female,MER_0014,DMart,Ring Road,Chennai,4210.7,26/08/2024 01:15,Legit
+CUST_0031,Sara Verma,63,Other,MER_0015,Urban Ladder,Link Road,Chennai,1632.97,26/08/2024 01:52,Legit
+CUST_0077,Zara Patel,39,Female,MER_0018,Reliance Mart,Outer Ring Road,Kolkata,2111.64,26/08/2024 11:16,Legit
+CUST_0024,Tara Sharma,59,Female,MER_0039,Nykaa Store,Outer Ring Road,Kolkata,3304.5,26/08/2024 13:35,Legit
+CUST_0090,Lakshmi Iyer,25,Female,MER_0025,Urban Ladder,MG Road,Hyderabad,1784.33,26/08/2024 15:20,Legit
+CUST_0076,Riya Verma,39,Female,MER_0036,Urban Ladder,LBS Marg,Pune,4255.19,27/08/2024 03:46,Legit
+CUST_0031,Kabir Patel,33,Female,MER_0040,Big Bazaar,Ring Road,Delhi,230.96,27/08/2024 17:39,Legit
+CUST_0030,Diya Iyer,69,Male,MER_0002,Zomato Partner,Outer Ring Road,Bengaluru,2069.5,27/08/2024 17:57,Legit
+CUST_0051,Kabir Sharma,70,Other,MER_0040,Ola Payments,Ring Road,Pune,427.83,28/08/2024 04:32,Legit
+CUST_0025,Kabir Khan,40,Male,MER_0049,Tanishq,Ring Road,Hyderabad,674.35,28/08/2024 16:32,Legit
+CUST_0030,Diya Iyer,69,Male,MER_0002,Zomato Partner,Outer Ring Road,Bengaluru,1794.01,28/08/2024 17:57,Fraud
+CUST_0053,Zara Verma,54,Other,MER_0046,Chai Point,Link Road,Hyderabad,1671.89,29/08/2024 00:41,Legit
+CUST_0077,Zara Patel,39,Female,MER_0018,Reliance Mart,Outer Ring Road,Kolkata,1283.98,29/08/2024 11:16,Fraud
+CUST_0041,Mohit Khan,57,Other,MER_0012,Ola Payments,Park Street,Pune,1227.57,29/08/2024 19:54,Legit
+CUST_0061,Neha Iyer,26,Other,MER_0004,Zomato Partner,Link Road,Mumbai,942.74,30/08/2024 20:31,Legit
+CUST_0033,Ananya Verma,39,Male,MER_0043,Zomato Partner,Link Road,Pune,2082.84,31/08/2024 04:01,Legit
+CUST_0027,Aisha Sharma,46,Female,MER_0023,Ikea Local,Link Road,Delhi,1110.7,31/08/2024 06:25,Legit
+CUST_0026,Meera Patel,18,Other,MER_0018,Spencers,Ring Road,Pune,1697.72,01/09/2024 18:07,Legit
+CUST_0051,Kabir Sharma,70,Other,MER_0040,Ola Payments,Ring Road,Pune,3305.52,02/09/2024 04:32,Fraud
+CUST_0089,Kabir Iyer,37,Other,MER_0004,Tanishq,Outer Ring Road,Chennai,4056.18,02/09/2024 06:24,Legit
+CUST_0020,Rohit Sharma,65,Male,MER_0026,Myntra Seller,Ring Road,Delhi,661.37,03/09/2024 03:28,Legit
+CUST_0094,Sara Khan,24,Male,MER_0031,Flipkart Hub,LBS Marg,Hyderabad,1699.23,04/09/2024 01:36,Legit
+CUST_0092,Reyansh Iyer,28,Other,MER_0049,Nykaa Store,Outer Ring Road,Mumbai,5008.11,04/09/2024 09:47,Legit
+CUST_0027,Aisha Sharma,46,Female,MER_0023,Ikea Local,Link Road,Delhi,1671.07,05/09/2024 06:25,Fraud
+CUST_0099,Aarav Rao,21,Female,MER_0027,Reliance Mart,Park Street,Kolkata,543.31,05/09/2024 06:30,Legit
+CUST_0032,Rohit Patel,20,Male,MER_0026,Nykaa Store,MG Road,Mumbai,2284.01,06/09/2024 16:00,Legit
+CUST_0035,Diya Iyer,50,Female,MER_0008,Big Bazaar,Link Road,Kolkata,966.69,07/09/2024 16:25,Legit
+CUST_0032,Rohit Patel,20,Male,MER_0026,Nykaa Store,MG Road,Mumbai,6028.18,08/09/2024 16:00,Fraud
+CUST_0027,Lakshmi Khan,48,Other,MER_0010,Ola Payments,Park Street,Mumbai,3666.64,09/09/2024 00:33,Legit
+CUST_0067,Sara Rao,56,Male,MER_0010,Urban Ladder,Park Street,Pune,4403.28,09/09/2024 23:59,Legit
+CUST_0041,Riya Sharma,30,Other,MER_0049,Croma Electronics,Outer Ring Road,Kolkata,1400.83,10/09/2024 12:24,Legit
+CUST_0074,Arjun Khan,51,Male,MER_0013,Myntra Seller,Ring Road,Kolkata,1702.4,10/09/2024 18:07,Legit
+CUST_0055,Aarav Iyer,37,Other,MER_0008,Amazon Store,LBS Marg,Chennai,3897.23,11/09/2024 17:06,Legit
+CUST_0025,Neha Verma,47,Female,MER_0013,Zomato Partner,Brigade Road,Mumbai,3314.27,12/09/2024 07:06,Legit
+CUST_0035,Zara Patel,49,Male,MER_0006,Tanishq,Ring Road,Pune,3055.78,13/09/2024 06:22,Legit
+CUST_0074,Diya Verma,33,Male,MER_0035,Tanishq,LBS Marg,Bengaluru,4121.8,13/09/2024 18:29,Legit
+CUST_0013,Tara Sharma,38,Other,MER_0001,Big Bazaar,Outer Ring Road,Delhi,954.04,14/09/2024 01:38,Legit
+CUST_0049,Riya Sharma,63,Male,MER_0043,Croma Electronics,MG Road,Mumbai,2440.99,14/09/2024 20:53,Legit
+CUST_0043,Aditya Iyer,33,Male,MER_0033,Urban Ladder,LBS Marg,Bengaluru,2522.01,15/09/2024 01:53,Legit
+CUST_0062,Reyansh Verma,49,Female,MER_0012,Ola Payments,Ring Road,Pune,1519.28,16/09/2024 05:39,Legit
+CUST_0032,Aarav Verma,40,Other,MER_0001,Croma Electronics,Park Street,Bengaluru,1972.55,16/09/2024 22:11,Legit
+CUST_0064,Sara Rao,18,Female,MER_0050,Big Bazaar,Ring Road,Chennai,2517.4,17/09/2024 10:29,Legit
+CUST_0043,Aditya Iyer,33,Male,MER_0033,Urban Ladder,LBS Marg,Bengaluru,3470.51,18/09/2024 01:53,Fraud
+CUST_0076,Rohit Sharma,29,Female,MER_0045,Reliance Mart,MG Road,Mumbai,1113.12,18/09/2024 07:05,Legit
+CUST_0005,Lakshmi Patel,20,Female,MER_0035,DMart,Park Street,Delhi,685.05,18/09/2024 22:49,Legit
+CUST_0042,Rohit Khan,67,Female,MER_0028,Nykaa Store,Link Road,Chennai,974.67,19/09/2024 09:08,Legit
+CUST_0033,Arjun Iyer,29,Male,MER_0019,Chai Point,Park Street,Pune,1661.9,19/09/2024 17:43,Legit
+CUST_0084,Zara Khan,22,Female,MER_0021,Reliance Mart,Park Street,Pune,2146.19,19/09/2024 18:06,Legit
+CUST_0082,Sara Verma,54,Male,MER_0025,Amazon Store,Park Street,Kolkata,2813.88,19/09/2024 20:48,Legit
+CUST_0066,Rohit Khan,27,Other,MER_0038,TataCliq Merchant,Outer Ring Road,Bengaluru,2884.23,20/09/2024 01:43,Legit
+CUST_0019,Sanya Iyer,58,Other,MER_0050,Amazon Store,Ring Road,Delhi,2937.84,20/09/2024 04:32,Legit
+CUST_0036,Rohit Khan,48,Other,MER_0008,Urban Ladder,Link Road,Bengaluru,4672.05,21/09/2024 02:48,Legit
+CUST_0077,Arjun Sharma,37,Male,MER_0035,Big Bazaar,Link Road,Hyderabad,3978.33,21/09/2024 18:12,Legit
+CUST_0052,Riya Khan,59,Female,MER_0018,Zudio,Park Street,Bengaluru,859.63,23/09/2024 03:27,Legit
+CUST_0075,Neha Verma,44,Female,MER_0021,TataCliq Merchant,MG Road,Kolkata,1392.28,23/09/2024 12:31,Legit
+CUST_0008,Sanya Verma,49,Male,MER_0014,Urban Ladder,MG Road,Delhi,571.73,23/09/2024 23:19,Legit
+CUST_0066,Rohit Khan,27,Other,MER_0038,TataCliq Merchant,Outer Ring Road,Bengaluru,3114.37,25/09/2024 01:43,Fraud
+CUST_0027,Tara Iyer,33,Other,MER_0035,Chai Point,Outer Ring Road,Pune,2531.31,25/09/2024 13:24,Legit
+CUST_0053,Aisha Verma,31,Female,MER_0008,Big Bazaar,Park Street,Mumbai,568.3,27/09/2024 15:14,Legit
+CUST_0008,Sanya Verma,49,Male,MER_0014,Urban Ladder,MG Road,Delhi,2032.41,28/09/2024 23:19,Fraud
+CUST_0082,Kabir Sharma,47,Female,MER_0045,Ola Payments,Outer Ring Road,Kolkata,4653.75,30/09/2024 21:43,Legit
+CUST_0084,Sanya Rao,63,Female,MER_0006,Reliance Mart,Outer Ring Road,Chennai,1481.03,01/10/2024 20:21,Legit
+CUST_0018,Aarav Sharma,44,Female,MER_0042,DMart,Park Street,Kolkata,3114.78,03/10/2024 02:56,Legit
+CUST_0009,Arjun Verma,44,Male,MER_0017,Chai Point,MG Road,Delhi,5689.49,03/10/2024 21:53,Legit
+CUST_0009,Zara Rao,38,Other,MER_0016,Reliance Mart,Link Road,Hyderabad,1403.3,04/10/2024 21:06,Legit
+CUST_0099,Reyansh Iyer,69,Male,MER_0047,Spencers,Outer Ring Road,Pune,2076.76,05/10/2024 00:22,Legit
+CUST_0027,Kabir Sharma,34,Other,MER_0047,Amazon Store,MG Road,Chennai,3585.61,05/10/2024 05:12,Legit
+CUST_0039,Neha Sharma,19,Other,MER_0047,Chai Point,Ring Road,Hyderabad,789.77,05/10/2024 06:34,Legit
+CUST_0084,Sara Rao,46,Other,MER_0029,Amazon Store,Park Street,Delhi,4801.58,06/10/2024 00:52,Legit
+CUST_0096,Kabir Khan,35,Other,MER_0016,Croma Electronics,Ring Road,Delhi,210.53,06/10/2024 09:02,Legit
+CUST_0003,Diya Rao,34,Other,MER_0005,Zomato Partner,Ring Road,Bengaluru,1477.1,06/10/2024 16:51,Legit
+CUST_0026,Lakshmi Rao,39,Male,MER_0037,Reliance Mart,Ring Road,Delhi,3084.15,06/10/2024 21:58,Legit
+CUST_0015,Mohit Rao,49,Female,MER_0007,Chai Point,Park Street,Hyderabad,1599.41,07/10/2024 10:32,Legit
+CUST_0039,Mohit Iyer,36,Other,MER_0040,TataCliq Merchant,Link Road,Kolkata,232.72,07/10/2024 14:50,Legit
+CUST_0037,Zara Verma,49,Other,MER_0033,Amazon Store,MG Road,Mumbai,3423.71,08/10/2024 22:10,Legit
+CUST_0040,Sanya Khan,40,Male,MER_0032,Big Bazaar,Brigade Road,Mumbai,2880.96,09/10/2024 14:49,Legit
+CUST_0038,Aisha Khan,34,Other,MER_0038,Tanishq,Park Street,Bengaluru,964.81,10/10/2024 00:42,Legit
+CUST_0016,Sanya Khan,70,Other,MER_0027,DMart,MG Road,Bengaluru,1964.04,10/10/2024 23:02,Legit
+CUST_0062,Vivaan Sharma,47,Male,MER_0011,Nykaa Store,Ring Road,Bengaluru,75.24,11/10/2024 01:50,Legit
+CUST_0096,Kabir Khan,59,Male,MER_0026,Ikea Local,Park Street,Hyderabad,3375.56,11/10/2024 16:54,Legit
+CUST_0015,Lakshmi Patel,63,Male,MER_0048,Flipkart Hub,Outer Ring Road,Delhi,3048.62,13/10/2024 16:54,Legit
+CUST_0033,Kabir Sharma,68,Male,MER_0047,Chai Point,Outer Ring Road,Kolkata,3511.77,14/10/2024 04:00,Legit
+CUST_0027,Aisha Sharma,20,Male,MER_0003,DMart,Brigade Road,Pune,2439.1,14/10/2024 07:27,Legit
+CUST_0059,Sara Rao,45,Other,MER_0045,Urban Ladder,MG Road,Mumbai,2970.37,14/10/2024 17:35,Legit
+CUST_0062,Arjun Iyer,61,Other,MER_0025,Zudio,Outer Ring Road,Bengaluru,3570.37,15/10/2024 08:03,Legit
+CUST_0059,Aisha Sharma,41,Male,MER_0009,Amazon Store,Link Road,Mumbai,2318.05,16/10/2024 00:36,Legit
+CUST_0047,Aditya Sharma,42,Female,MER_0030,Chai Point,Ring Road,Bengaluru,1598.15,16/10/2024 06:48,Legit
+CUST_0011,Arjun Verma,47,Male,MER_0031,Spencers,MG Road,Kolkata,2791.33,18/10/2024 04:33,Legit
+CUST_0094,Aisha Iyer,60,Female,MER_0022,Ola Payments,LBS Marg,Chennai,6126.16,19/10/2024 17:27,Legit
+CUST_0065,Reyansh Patel,37,Other,MER_0049,Chai Point,Outer Ring Road,Mumbai,523.82,19/10/2024 22:12,Legit
+CUST_0077,Neha Verma,42,Other,MER_0035,Flipkart Hub,Outer Ring Road,Mumbai,924.22,20/10/2024 06:03,Legit
+CUST_0068,Rohit Iyer,36,Other,MER_0007,TataCliq Merchant,Park Street,Hyderabad,2977.69,22/10/2024 01:28,Legit
+CUST_0093,Arjun Patel,66,Female,MER_0032,DMart,Outer Ring Road,Bengaluru,2376.19,22/10/2024 04:03,Legit
+CUST_0081,Kabir Verma,33,Female,MER_0014,Nykaa Store,Park Street,Kolkata,4719.31,23/10/2024 11:00,Legit
+CUST_0009,Kabir Verma,55,Male,MER_0022,TataCliq Merchant,Ring Road,Delhi,13.49,24/10/2024 11:57,Legit
+CUST_0047,Aarav Khan,30,Male,MER_0016,TataCliq Merchant,Link Road,Pune,1644.09,24/10/2024 18:49,Legit
+CUST_0063,Tara Khan,19,Male,MER_0040,Zomato Partner,MG Road,Bengaluru,3064.93,24/10/2024 19:38,Legit
+CUST_0090,Lakshmi Khan,66,Male,MER_0026,Urban Ladder,LBS Marg,Hyderabad,1328.7,25/10/2024 00:26,Legit
+CUST_0080,Lakshmi Rao,55,Female,MER_0026,Flipkart Hub,Outer Ring Road,Pune,694.08,25/10/2024 15:45,Legit
+CUST_0090,Lakshmi Khan,66,Male,MER_0026,Urban Ladder,LBS Marg,Hyderabad,736.68,26/10/2024 00:26,Fraud
+CUST_0078,Vivaan Khan,50,Other,MER_0046,Myntra Seller,Park Street,Bengaluru,3470.02,26/10/2024 00:34,Legit
+CUST_0018,Tara Patel,70,Male,MER_0027,Big Bazaar,MG Road,Hyderabad,3949.14,26/10/2024 08:19,Legit
+CUST_0094,Ananya Rao,24,Other,MER_0008,TataCliq Merchant,Park Street,Chennai,2101.2,26/10/2024 22:49,Legit
+CUST_0036,Mohit Patel,56,Other,MER_0003,Big Bazaar,Ring Road,Chennai,5015.91,27/10/2024 19:12,Legit
+CUST_0004,Kabir Khan,50,Other,MER_0035,Zomato Partner,Ring Road,Kolkata,7734.1,28/10/2024 07:37,Legit
+CUST_0078,Diya Sharma,67,Other,MER_0045,Flipkart Hub,Link Road,Kolkata,5296.45,29/10/2024 00:02,Legit
+CUST_0069,Aisha Sharma,24,Female,MER_0037,Big Bazaar,Link Road,Kolkata,5089.15,29/10/2024 08:49,Legit
+CUST_0029,Mohit Patel,53,Male,MER_0043,Spencers,Brigade Road,Kolkata,1784.9,29/10/2024 23:58,Legit
+CUST_0002,Kabir Iyer,43,Male,MER_0032,Urban Ladder,Outer Ring Road,Chennai,3372.55,30/10/2024 03:54,Legit
+CUST_0048,Lakshmi Patel,63,Male,MER_0020,Myntra Seller,Brigade Road,Hyderabad,378.77,31/10/2024 00:09,Legit
+CUST_0084,Aisha Iyer,48,Other,MER_0006,Ikea Local,LBS Marg,Mumbai,5484.08,31/10/2024 04:09,Legit
+CUST_0026,Rohit Iyer,64,Other,MER_0038,Zomato Partner,MG Road,Kolkata,959.8,31/10/2024 10:36,Legit
+CUST_0040,Aisha Khan,64,Male,MER_0004,Ikea Local,Ring Road,Kolkata,2282.54,31/10/2024 14:37,Legit
+CUST_0026,Rohit Iyer,64,Other,MER_0038,Zomato Partner,MG Road,Kolkata,2838.4,01/11/2024 10:36,Fraud
+CUST_0023,Sanya Verma,26,Female,MER_0033,Zudio,Outer Ring Road,Chennai,2704.5,01/11/2024 21:23,Legit
+CUST_0031,Aisha Khan,31,Male,MER_0046,Urban Ladder,Park Street,Mumbai,3911.57,02/11/2024 02:40,Legit
+CUST_0072,Tara Patel,64,Male,MER_0043,DMart,MG Road,Delhi,3481.02,03/11/2024 02:39,Legit
+CUST_0096,Arjun Iyer,28,Female,MER_0038,Urban Ladder,Brigade Road,Bengaluru,1343.96,03/11/2024 09:58,Legit
+CUST_0012,Aisha Verma,20,Other,MER_0009,Spencers,Outer Ring Road,Kolkata,758.54,03/11/2024 18:00,Legit
+CUST_0052,Sara Rao,57,Female,MER_0042,Chai Point,Link Road,Pune,3882.98,04/11/2024 06:43,Legit
+CUST_0071,Reyansh Iyer,66,Female,MER_0041,Flipkart Hub,LBS Marg,Mumbai,1060.45,05/11/2024 13:19,Legit
+CUST_0008,Riya Verma,59,Other,MER_0050,Spencers,LBS Marg,Pune,2894.48,05/11/2024 13:31,Legit
+CUST_0066,Tara Patel,54,Male,MER_0015,Amazon Store,Brigade Road,Delhi,6434.92,06/11/2024 07:21,Legit
+CUST_0018,Kabir Khan,69,Other,MER_0020,Zudio,LBS Marg,Hyderabad,459.5,07/11/2024 03:34,Legit
+CUST_0020,Kabir Sharma,23,Male,MER_0042,Zudio,Ring Road,Mumbai,2368.93,08/11/2024 22:33,Legit
+CUST_0032,Aditya Khan,30,Other,MER_0036,Reliance Mart,Outer Ring Road,Hyderabad,5134.89,09/11/2024 08:54,Legit
+CUST_0099,Arjun Patel,42,Male,MER_0017,Ikea Local,MG Road,Pune,1531.74,10/11/2024 00:39,Legit
+CUST_0030,Aarav Khan,54,Other,MER_0023,Urban Ladder,Brigade Road,Chennai,1359.89,10/11/2024 20:10,Legit
+CUST_0029,Mohit Iyer,69,Female,MER_0045,TataCliq Merchant,Link Road,Delhi,1719.09,12/11/2024 02:09,Legit
+CUST_0072,Riya Rao,19,Female,MER_0012,Tanishq,Outer Ring Road,Chennai,3422.35,12/11/2024 21:57,Legit
+CUST_0099,Arjun Patel,42,Male,MER_0017,Ikea Local,MG Road,Pune,5840.03,14/11/2024 00:39,Fraud
+CUST_0030,Aarav Khan,54,Other,MER_0023,Urban Ladder,Brigade Road,Chennai,2647.2,14/11/2024 20:10,Fraud
+CUST_0038,Tara Khan,35,Female,MER_0041,Myntra Seller,LBS Marg,Mumbai,1740.92,15/11/2024 19:02,Legit
+CUST_0017,Reyansh Patel,24,Female,MER_0030,Big Bazaar,Link Road,Hyderabad,2101.94,16/11/2024 21:06,Legit
+CUST_0021,Kabir Verma,48,Female,MER_0007,Myntra Seller,Ring Road,Kolkata,2278.76,17/11/2024 02:24,Legit
+CUST_0018,Lakshmi Sharma,18,Male,MER_0003,Urban Ladder,Link Road,Hyderabad,740.09,18/11/2024 15:56,Legit
+CUST_0040,Diya Rao,49,Female,MER_0020,Zudio,Brigade Road,Mumbai,3638.44,18/11/2024 16:39,Legit
+CUST_0045,Meera Verma,65,Other,MER_0031,Ikea Local,Outer Ring Road,Pune,2315.11,18/11/2024 20:19,Legit
+CUST_0039,Meera Verma,48,Other,MER_0003,Tanishq,Park Street,Delhi,2730.19,18/11/2024 23:42,Legit
+CUST_0045,Kabir Verma,60,Other,MER_0033,Myntra Seller,Ring Road,Pune,4468.79,19/11/2024 15:20,Legit
+CUST_0076,Meera Patel,19,Male,MER_0015,Ola Payments,Outer Ring Road,Kolkata,3050.94,19/11/2024 18:56,Legit
+CUST_0051,Vivaan Sharma,62,Other,MER_0046,Tanishq,Park Street,Bengaluru,1976.82,20/11/2024 22:00,Legit
+CUST_0039,Meera Verma,48,Other,MER_0003,Tanishq,Park Street,Delhi,75.82,20/11/2024 23:42,Fraud
+CUST_0076,Rohit Verma,63,Female,MER_0041,Big Bazaar,Link Road,Mumbai,725.63,21/11/2024 11:51,Legit
+CUST_0037,Ananya Verma,57,Female,MER_0018,TataCliq Merchant,LBS Marg,Bengaluru,3709.75,22/11/2024 07:10,Legit
+CUST_0029,Riya Sharma,40,Male,MER_0031,TataCliq Merchant,Link Road,Bengaluru,3354.67,22/11/2024 08:01,Legit
+CUST_0055,Diya Sharma,26,Male,MER_0025,Amazon Store,LBS Marg,Chennai,4505.05,22/11/2024 23:04,Legit
+CUST_0029,Riya Sharma,40,Male,MER_0031,TataCliq Merchant,Link Road,Bengaluru,2614.78,23/11/2024 08:01,Fraud
+CUST_0076,Rohit Verma,63,Female,MER_0041,Big Bazaar,Link Road,Mumbai,2580.58,23/11/2024 11:51,Fraud
+CUST_0017,Lakshmi Verma,33,Female,MER_0030,Zudio,LBS Marg,Bengaluru,2305.28,23/11/2024 18:52,Legit
+CUST_0051,Vivaan Sharma,62,Other,MER_0046,Tanishq,Park Street,Bengaluru,579.5,23/11/2024 22:00,Fraud
+CUST_0044,Kabir Sharma,69,Female,MER_0032,Tanishq,MG Road,Mumbai,2137.14,23/11/2024 22:19,Legit
+CUST_0073,Lakshmi Iyer,23,Male,MER_0050,TataCliq Merchant,LBS Marg,Pune,1443.59,25/11/2024 09:45,Legit
+CUST_0005,Aarav Patel,62,Male,MER_0044,Amazon Store,Park Street,Pune,2614.8,25/11/2024 16:03,Legit
+CUST_0063,Kabir Rao,60,Male,MER_0003,DMart,Brigade Road,Hyderabad,3563.63,25/11/2024 17:10,Legit
+CUST_0018,Aditya Khan,67,Male,MER_0035,Nykaa Store,Ring Road,Kolkata,3003.4,26/11/2024 11:11,Legit
+CUST_0073,Ananya Rao,20,Male,MER_0028,Spencers,Park Street,Hyderabad,2304.95,27/11/2024 05:57,Legit
+CUST_0067,Aditya Patel,65,Other,MER_0016,Zudio,Link Road,Delhi,435.88,27/11/2024 15:55,Legit
+CUST_0033,Aarav Khan,42,Other,MER_0011,Ola Payments,Brigade Road,Delhi,2863.96,27/11/2024 23:08,Legit
+CUST_0014,Sara Patel,68,Male,MER_0036,Reliance Mart,MG Road,Hyderabad,2669.41,28/11/2024 07:26,Legit
+CUST_0072,Tara Rao,58,Other,MER_0044,Tanishq,Park Street,Delhi,4604.29,28/11/2024 09:15,Legit
+CUST_0038,Arjun Rao,47,Female,MER_0026,Flipkart Hub,Brigade Road,Hyderabad,1617.67,28/11/2024 10:04,Legit
+CUST_0064,Zara Iyer,69,Female,MER_0026,Croma Electronics,Link Road,Chennai,2914.27,28/11/2024 12:39,Legit
+CUST_0038,Vivaan Patel,24,Male,MER_0041,Zomato Partner,Outer Ring Road,Bengaluru,1102.23,28/11/2024 17:26,Legit
+CUST_0091,Meera Sharma,29,Female,MER_0004,TataCliq Merchant,LBS Marg,Kolkata,1096.65,29/11/2024 02:20,Legit
+CUST_0053,Sanya Patel,55,Other,MER_0041,Zudio,Outer Ring Road,Delhi,3416.15,29/11/2024 13:23,Legit
+CUST_0063,Aditya Patel,39,Other,MER_0018,Urban Ladder,Link Road,Mumbai,1638.2,30/11/2024 07:43,Legit
+CUST_0073,Lakshmi Iyer,23,Male,MER_0050,TataCliq Merchant,LBS Marg,Pune,699.34,30/11/2024 09:45,Fraud
+CUST_0038,Arjun Rao,47,Female,MER_0026,Flipkart Hub,Brigade Road,Hyderabad,1751.92,30/11/2024 10:04,Fraud
+CUST_0048,Rohit Sharma,51,Other,MER_0035,Ola Payments,Outer Ring Road,Delhi,255.6,01/12/2024 07:22,Legit
+CUST_0044,Arjun Rao,33,Female,MER_0008,Tanishq,MG Road,Bengaluru,1278.64,02/12/2024 06:43,Legit
+CUST_0033,Sara Verma,44,Other,MER_0042,Tanishq,Link Road,Pune,2998.22,03/12/2024 06:17,Legit
+CUST_0019,Rohit Iyer,38,Female,MER_0046,Chai Point,MG Road,Mumbai,2009.28,03/12/2024 17:01,Legit
+CUST_0005,Aarav Sharma,56,Male,MER_0050,Tanishq,Outer Ring Road,Kolkata,722.41,04/12/2024 02:42,Legit
+CUST_0068,Arjun Rao,43,Female,MER_0010,Tanishq,Link Road,Chennai,1374.96,04/12/2024 10:39,Legit
+CUST_0090,Diya Khan,26,Other,MER_0008,Zomato Partner,Brigade Road,Delhi,395.75,04/12/2024 12:49,Legit
+CUST_0054,Ananya Sharma,23,Other,MER_0039,Amazon Store,Brigade Road,Bengaluru,2338.15,04/12/2024 20:30,Legit
+CUST_0006,Sara Patel,33,Female,MER_0007,Spencers,Ring Road,Delhi,3597.14,05/12/2024 03:39,Legit
+CUST_0080,Ananya Khan,24,Male,MER_0015,Reliance Mart,Ring Road,Chennai,3356.88,05/12/2024 06:19,Legit
+CUST_0069,Lakshmi Iyer,53,Male,MER_0005,Amazon Store,Park Street,Mumbai,2225.81,05/12/2024 07:50,Legit
+CUST_0054,Ananya Sharma,23,Other,MER_0039,Amazon Store,Brigade Road,Bengaluru,4252.7,05/12/2024 20:30,Fraud
+CUST_0002,Aisha Rao,67,Male,MER_0024,Croma Electronics,Ring Road,Chennai,3844.75,06/12/2024 12:37,Legit
+CUST_0080,Lakshmi Sharma,23,Other,MER_0001,Nykaa Store,MG Road,Bengaluru,3882.97,06/12/2024 19:55,Legit
+CUST_0008,Diya Iyer,18,Male,MER_0050,Zomato Partner,Ring Road,Kolkata,4477.38,07/12/2024 02:30,Legit
+CUST_0095,Kabir Iyer,35,Female,MER_0018,Big Bazaar,MG Road,Mumbai,3186.89,07/12/2024 03:05,Legit
+CUST_0018,Reyansh Verma,24,Male,MER_0037,Chai Point,Brigade Road,Hyderabad,1473.23,09/12/2024 00:41,Legit
+CUST_0005,Aarav Sharma,56,Male,MER_0050,Tanishq,Outer Ring Road,Kolkata,1492.93,09/12/2024 02:42,Fraud
+CUST_0079,Meera Rao,49,Female,MER_0044,Spencers,LBS Marg,Chennai,5268.65,09/12/2024 13:25,Legit
+CUST_0069,Tara Patel,24,Other,MER_0036,Ikea Local,MG Road,Bengaluru,875.58,10/12/2024 14:11,Legit
+CUST_0048,Reyansh Verma,64,Male,MER_0028,Reliance Mart,Link Road,Hyderabad,2621.66,10/12/2024 16:33,Legit
+CUST_0087,Kabir Verma,55,Male,MER_0012,Zomato Partner,Outer Ring Road,Bengaluru,4991.6,11/12/2024 10:36,Legit
+CUST_0044,Aditya Patel,47,Male,MER_0025,Myntra Seller,Brigade Road,Hyderabad,3558.84,12/12/2024 09:24,Legit
+CUST_0071,Arjun Khan,41,Male,MER_0024,DMart,Link Road,Mumbai,2367.04,12/12/2024 11:17,Legit
+CUST_0083,Sanya Khan,25,Male,MER_0034,Zomato Partner,MG Road,Mumbai,620.2,12/12/2024 11:55,Legit
+CUST_0076,Meera Khan,43,Male,MER_0039,Big Bazaar,MG Road,Hyderabad,1744.7,12/12/2024 15:29,Legit
+CUST_0079,Lakshmi Patel,52,Other,MER_0010,Myntra Seller,LBS Marg,Delhi,4469.61,12/12/2024 20:24,Legit
+CUST_0035,Kabir Patel,63,Other,MER_0050,Ola Payments,Outer Ring Road,Delhi,824.27,12/12/2024 20:25,Legit
+CUST_0044,Neha Rao,51,Female,MER_0022,Spencers,LBS Marg,Hyderabad,2522.1,13/12/2024 03:57,Legit
+CUST_0099,Lakshmi Verma,18,Male,MER_0016,Reliance Mart,Ring Road,Mumbai,68.76,13/12/2024 06:42,Legit
+CUST_0071,Arjun Khan,41,Male,MER_0024,DMart,Link Road,Mumbai,1104.84,13/12/2024 11:17,Fraud
+CUST_0083,Sanya Khan,25,Male,MER_0034,Zomato Partner,MG Road,Mumbai,3351.56,13/12/2024 11:55,Fraud
+CUST_0030,Rohit Sharma,66,Male,MER_0038,Myntra Seller,MG Road,Bengaluru,5690.55,14/12/2024 10:26,Legit
+CUST_0099,Aarav Sharma,46,Male,MER_0041,Tanishq,Outer Ring Road,Kolkata,1073.33,15/12/2024 19:00,Legit
+CUST_0050,Sanya Sharma,24,Other,MER_0040,Amazon Store,Link Road,Mumbai,1605.59,15/12/2024 23:50,Legit
+CUST_0010,Sara Iyer,31,Female,MER_0034,Zudio,Park Street,Pune,2405.57,16/12/2024 07:26,Legit
+CUST_0084,Aditya Sharma,57,Male,MER_0035,Nykaa Store,Link Road,Kolkata,5368.14,16/12/2024 23:50,Legit
+CUST_0086,Aditya Sharma,37,Male,MER_0049,Flipkart Hub,Link Road,Pune,3906.21,17/12/2024 03:48,Legit
+CUST_0043,Mohit Iyer,43,Female,MER_0033,Chai Point,Link Road,Delhi,1558.8,18/12/2024 05:32,Legit
+CUST_0032,Zara Sharma,70,Female,MER_0029,DMart,Outer Ring Road,Pune,107.99,18/12/2024 14:27,Legit
+CUST_0041,Aarav Patel,47,Other,MER_0030,DMart,MG Road,Delhi,6360.18,20/12/2024 05:36,Legit
+CUST_0050,Lakshmi Khan,49,Other,MER_0009,Zomato Partner,Ring Road,Chennai,1393.91,20/12/2024 10:57,Legit
+CUST_0050,Sanya Sharma,24,Other,MER_0040,Amazon Store,Link Road,Mumbai,2464.47,20/12/2024 23:50,Fraud
+CUST_0052,Tara Sharma,42,Female,MER_0033,Spencers,Ring Road,Chennai,1441.41,22/12/2024 02:20,Legit
+CUST_0010,Arjun Khan,46,Female,MER_0041,Big Bazaar,Ring Road,Pune,412.33,22/12/2024 23:19,Legit
+CUST_0090,Riya Rao,33,Male,MER_0050,Spencers,MG Road,Mumbai,2535.71,24/12/2024 16:52,Legit
+CUST_0077,Tara Sharma,35,Male,MER_0038,Ola Payments,Link Road,Pune,356.5,26/12/2024 12:17,Legit
+CUST_0007,Ananya Verma,22,Female,MER_0042,DMart,Outer Ring Road,Mumbai,1798.14,26/12/2024 23:24,Legit
+CUST_0007,Vivaan Sharma,26,Other,MER_0029,DMart,MG Road,Mumbai,1543.28,27/12/2024 15:58,Legit
+CUST_0007,Ananya Verma,22,Female,MER_0042,DMart,Outer Ring Road,Mumbai,1974.34,28/12/2024 23:24,Fraud
+CUST_0056,Aditya Iyer,34,Other,MER_0003,Myntra Seller,Outer Ring Road,Mumbai,3903.21,29/12/2024 12:19,Legit
+CUST_0007,Vivaan Sharma,26,Other,MER_0029,DMart,MG Road,Mumbai,266.82,29/12/2024 15:58,Fraud
+CUST_0029,Lakshmi Rao,31,Other,MER_0046,TataCliq Merchant,LBS Marg,Pune,1541.67,29/12/2024 18:26,Legit
+CUST_0058,Ananya Khan,20,Other,MER_0034,Tanishq,LBS Marg,Hyderabad,1799.81,29/12/2024 22:51,Legit
